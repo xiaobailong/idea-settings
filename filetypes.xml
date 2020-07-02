@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="scripts" type="PLAIN_TEXT" />
+      <mapping pattern="slaves" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="EXC_236_accstat" type="PLAIN_TEXT" />
+      <mapping pattern="k8s" type="PLAIN_TEXT" />
+      <mapping pattern="calico_deploy" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
