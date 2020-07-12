@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="scripts" type="PLAIN_TEXT" />
+      <mapping pattern="2019-01" type="PLAIN_TEXT" />
       <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="EXC_236_accstat" type="PLAIN_TEXT" />
