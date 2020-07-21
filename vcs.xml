@@ -30,9 +30,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="xiaobailong" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ywwl.com/BigData/data-collection.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\WorkSpace\k8s" />
+    <option name="cloneParentDir" value="D:\WorkSpace\ywdc" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
