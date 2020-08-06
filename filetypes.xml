@@ -8,6 +8,7 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="EXC_236_accstat" type="PLAIN_TEXT" />
       <mapping pattern="k8s" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="calico_deploy" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
