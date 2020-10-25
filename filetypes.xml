@@ -12,9 +12,12 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="calico_deploy" type="PLAIN_TEXT" />
       <mapping pattern="EXC_236_accstat" type="PLAIN_TEXT" />
+      <mapping ext="20202992012" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="20202992212" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="20202992412" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="20202990612" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
