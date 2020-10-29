@@ -13,6 +13,7 @@
       <mapping pattern="calico_deploy" type="PLAIN_TEXT" />
       <mapping pattern="EXC_236_accstat" type="PLAIN_TEXT" />
       <mapping ext="20202992012" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="2020102704" type="PLAIN_TEXT" />
       <mapping ext="2020102702" type="PLAIN_TEXT" />
