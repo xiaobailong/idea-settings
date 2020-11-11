@@ -8,6 +8,7 @@
       <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="k8s" type="PLAIN_TEXT" />
+      <mapping pattern="service_account" type="PLAIN_TEXT" />
       <mapping pattern="2019-01" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="calico_deploy" type="PLAIN_TEXT" />
