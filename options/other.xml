@@ -1,0 +1,129 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Microsoft OpenJDK 17.0.15" />
+        <option name="installDir" value="C:\Users\766698\.jdks\ms-17.0.15" />
+        <option name="sha256" value="4731e8b69287b26ff0f87cbd47c4aa6dec7581664f57047bad00e47d99bb4abd" />
+        <option name="url" value="https://aka.ms/download-jdk/microsoft-jdk-17.0.15-windows-x64.zip" />
+        <option name="versionText" value="17.0.15" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "3.14.206": "C:\\Users\\766698\\.jetbrains-codegpt\\3.14.206",
+    "CUSTOMIZE_ACTIONS": "forward",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.5993031",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.RawTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer",
+    "FindSplitterProportion": "0.32981133",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "sql\ns'q\ns\nJCEF\n/enabled",
+    "KEYMAP": "替换\n通过名称\nColumn Selection Mode\nformat",
+    "LANGUAGE_DETECTOR_ASKED_BEFORE": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-261.22158.277",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "IU-261.22158.277",
+    "Markdown Split EditorLayout": "Editor only",
+    "MarketplacePluginsSearchHistory": "Config Sync\nSettings Repository\nSettings Sync\nbackup\nbacku",
+    "NewProjectWizard.gitState": "true",
+    "NewProjectWizard.groupIdState": "org.example",
+    "Notification.DisplayName-DoNotAsk-git.push.result": "",
+    "Notification.DoNotAsk-git.push.result": "true",
+    "ProjectStructure.SecondLevelElements": "0.334",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "git\ncline\nCodeGPT\nTabby\n全局库",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "Vcs.Log.Text.Filter.History": "【PC+移动端】【资源池】非选中股分钟快照部分字段查询显-处理优化\n【PC+移动端】【买卖点&资源池与自选股票列表】新增\"跟进人\"和\"建仓人\"的行权限（0701出排期\n无效返回字段梳理下线\n资源池列表-无效返回字段梳理下线。\n模拟新增待买待卖闹钟",
+    "XDebuggerExpressionEditor_Use_Soft_Wraps": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.同步.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.构建输出.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "cef_version_last_used": "144",
+    "codeverse.saas.region": "cn",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "源",
+    "defaultJdkConfigured": "true",
+    "deviceId": "b8bbae43-81b2-483d-9172-2f89dd0faf0b",
+    "disable.forced.soft.wraps.notification": "true",
+    "ea.auto.report.offered": "true",
+    "ea.auto.report.offered.1.0": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.251": "3",
+    "evlsprt3.252": "6",
+    "evlsprt3.253": "6",
+    "evlsprt3.261": "4",
+    "evlsprt3.262": "5",
+    "exception.accepted.notices": ":cffbdc55:d4a3ab85",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "261.26222.65",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "23",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "git.working.trees.stop.showing.new.badge": "true",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.database.cloud.explorer.promo": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.trial.state.widget.trial.available.got.it.id": "1",
+    "got.it.tooltip.插件自动更新": "1",
+    "ide.islands.ab2": "true",
+    "ide.islands.ab3": "true",
+    "ide.islands.new.darcula": "true",
+    "idea.islands.enabled": "true",
+    "ift.hide.welcome.screen.promo": "true",
+    "installed.kotlin.plugin.version": "262.9437.185-IJ",
+    "jdk.selected.JAVA_MODULE": "11",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.plugins.groovy.config.wizard.GroovyNewProjectWizard$Step.selectedStep": "Maven",
+    "plugins.preselection.path": "C:/Users/766698/Downloads",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project.Groovy",
+    "promo.ignore.suggested.ide": "true",
+    "registry.to.advanced.settings.migration.build": "IU-262.9437.185",
+    "selected.color.option.type": "INLAY_TEXT_WITHOUT_BACKGROUND",
+    "settings.code.style.selected.tab.Groovy": "GroovyDoc",
+    "settings.new.badge.shown.count.configurable.group.editor": "3",
+    "settings.new.badge.shown.count.editor.preferences.appearance": "1",
+    "settings.new.badge.shown.count.preferences.editor": "1",
+    "terminal.gen.one.option.visible": "false",
+    "toolwindow.showToolWindowsNames.ts": "2026-07-21T20:19:21.5009496",
+    "trial.state.last.availability.check": "0",
+    "trial.state.last.availability.state": "true",
+    "trial.state.last.state": "EXPIRED",
+    "vcs.branch.view.splitter.proportion": "0.17896476",
+    "vcs.history.diff.splitter.proportion": "0.25541127",
+    "vcs.log.changes.splitter.proportion": "0.44109195",
+    "vcs.log.details.splitter.proportion": "0.66096866"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector"
+    ]
+  }
+}]]></component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;enterKeyPressedTimes&quot;: 11,
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
+  }
+}</component>
+  <component name="TerminalAgentsState">{}</component>
+</application>

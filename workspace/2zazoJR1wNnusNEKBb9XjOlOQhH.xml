@@ -1,0 +1,559 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bigdata-starrocks-functions" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="svzxlhjykmnp" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/sr/ArrayCompareTag.java" file-id="228098" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="396">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ArrayCompareTag.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/sr/ArrayContinueMax.java" file-id="228096" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ArrayContinueMax.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm2.java" file-id="228097" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"BigdataAlgorithm2.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm3.java" file-id="228095" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"BigdataAlgorithm3.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 15,
+      "lastUsed": 1787735047156
+    },
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1787626742804
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1787626656541
+    },
+    "IDEA_MODULE": {
+      "usageCount": 1,
+      "lastUsed": 1787626744898
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="15" lastUsage="1787735047156" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1787626742804" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1787626656541" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/java/sr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes/META-INF}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes/META-INF}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes/META-INF/services}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata-starrocks-functions" />
+            <item name="bigdata-starrocks-functions" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata-starrocks-functions" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="sr" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/java/sr}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr/ArrayCompareTag.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ArrayCompareTag" />
+                        <item name="ArrayCompareTag" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr/ArrayContinueMax.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ArrayContinueMax" />
+                        <item name="ArrayContinueMax" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm2.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="BigdataAlgorithm2" />
+                        <item name="BigdataAlgorithm2" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm3.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="BigdataAlgorithm3" />
+                        <item name="BigdataAlgorithm3" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm4.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="BigdataAlgorithm4" />
+                        <item name="BigdataAlgorithm4" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/sr/ListToStringArray.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ListToStringArray" />
+                        <item name="ListToStringArray" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/target" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/java/target}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="test" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/src/test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/target/classes" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="classes" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/target/classes/META-INF" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="META-INF" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes/META-INF}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/target/classes/META-INF/services" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="services" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata-starrocks-functions/target/classes/META-INF/services}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/target/classes/META-INF/services/io.prestosql.spi.Plugin" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="io.prestosql.spi.Plugin" />
+                        <item name="io.prestosql.spi.Plugin" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/dependency-reduced-pom.xml" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.java" iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="dependency-reduced-pom.xml" />
+                <item name="dependency-reduced-pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.java" iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/markdown.svg" iconPlugin="com.intellij" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/udf (1).iml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ideaModule.svg" iconPlugin="com.intellij" isLeaf="true" text="udf (1).iml" />
+                <item name="udf (1).iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.BigdataAlgorithm3 (1)" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20130208" />
+      <window_info id="Commit" order="1" weight="0.20130208" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="kybox" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="KyBoxResult" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cline" order="5" />
+      <window_info active="true" anchor="right" id="Trae AI" order="6" visible="true" weight="0.32994792" />
+      <unified_weights bottom="0.32994187" left="0.20130208" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Trae AI</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Notifications</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1848" height="303" key="GridCell.Tab.0.bottom" timestamp="1787735439786">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="303" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787735439786" />
+    <state width="1848" height="303" key="GridCell.Tab.0.center" timestamp="1787735439786">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="303" key="GridCell.Tab.0.center/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787735439786" />
+    <state width="1848" height="303" key="GridCell.Tab.0.left" timestamp="1787735439786">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="303" key="GridCell.Tab.0.left/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787735439786" />
+    <state width="1848" height="303" key="GridCell.Tab.0.right" timestamp="1787735439786">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="303" key="GridCell.Tab.0.right/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787735439786" />
+    <state x="-1650" y="619" width="900" height="700" key="SettingsEditor" timestamp="1787735436128">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1650" y="619" width="900" height="700" key="SettingsEditor/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787735436128" />
+    <state x="-1260" y="901" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1787626506488">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1260" y="901" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787626506488" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sr/ListToStringArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udf (1).iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sr/ArrayCompareTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sr/ArrayContinueMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sr/BigdataAlgorithm2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<keymap version="1" name="EclipseCustom" parent="Eclipse">
+  <action id="AutoIndentLines" />
+  <action id="EditorJoinLines" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="IncrementalSearch" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="UsageFiltering.Imports" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+</keymap>

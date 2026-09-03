@@ -1,0 +1,38 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\766698\Downloads\bigdata_pe_invest_stocks" value="true" />
+        <entry key="D:\WorkSpace" value="true" />
+        <entry key="D:\WorkSpace\Groovy5" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe\bigdata-starrocks-functions" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe\bigdata_pe_stock_index" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe\bigdata_pe_stock_index_futures" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe\bigdata_pe_stock_market_ana" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe_invest_stocks" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe_resource_git" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe_stock_index" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe_stock_index_futures" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe_stock_market_ana" value="true" />
+        <entry key="D:\WorkSpace\bigdata_pe_stock_pool" value="true" />
+        <entry key="D:\WorkSpace\dg" value="true" />
+        <entry key="D:\WorkSpace\getter\selenium-test\douyin-test" value="true" />
+        <entry key="D:\WorkSpace\groovy\groovy_mvn" value="true" />
+        <entry key="D:\WorkSpace\groovy_mvn" value="true" />
+        <entry key="D:\WorkSpace\groovy_mvn\groovy_mvn" value="true" />
+        <entry key="D:\WorkSpace\selenium-test" value="true" />
+        <entry key="D:\WorkSpace\test" value="true" />
+        <entry key="D:\WorkSpace\test\test" value="true" />
+        <entry key="D:\WorkSpace\video-getter-test" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:\WorkSpace" />
+      </list>
+    </option>
+  </component>
+</application>

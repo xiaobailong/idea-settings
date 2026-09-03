@@ -1,0 +1,72 @@
+<application>
+  <component name="CodeGPT_ModelSettings">
+    <option name="modelSelections">
+      <map>
+        <entry key="AGENT">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="claude-opus-4-6" />
+              <option name="provider" value="Anthropic" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="AUTO_APPLY">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="mercury-edit-2" />
+              <option name="provider" value="ProxyAI" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="CHAT">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="claude-opus-4-6" />
+              <option name="provider" value="Anthropic" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="CODE_COMPLETION">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="mercury-edit-2" />
+              <option name="provider" value="ProxyAI" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="COMMIT_MESSAGE">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="claude-haiku-4-5" />
+              <option name="provider" value="ProxyAI" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="INLINE_EDIT">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="claude-haiku-4-5" />
+              <option name="provider" value="ProxyAI" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="LOOKUP">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="claude-haiku-4-5" />
+              <option name="provider" value="ProxyAI" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+        <entry key="NEXT_EDIT">
+          <value>
+            <ModelDetailsState>
+              <option name="model" value="mercury-edit-2" />
+              <option name="provider" value="ProxyAI" />
+            </ModelDetailsState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,46 @@
+Git4Idea|Version Controls
+Lombook Plugin|JVM Frameworks
+com.intellij.database|Database
+com.intellij.debugger.collections.visualizer|JVM Tools
+com.intellij.dev|Platform Development
+com.intellij.dfa.analysis|null
+com.intellij.gradle|Build Tools
+com.intellij.groovy.scripting|Languages
+com.intellij.java.ide|IDE Settings
+com.intellij.jsonpath|Languages
+com.intellij.mermaid|null
+com.intellij.modules.jcef|Other Tools
+com.intellij.modules.json|Languages
+com.intellij.modules.ultimate|null
+com.intellij.platform.acp|IDE Settings
+com.intellij.platform.daemon|IDE Settings
+com.intellij.platform.images|null
+com.intellij.plugins.eclipsekeymap|Keymap
+com.intellij.properties|Languages
+com.intellij.settingsSync|IDE Settings
+com.intellij|null
+com.jetbrains.sh|Languages
+intellij.bookmarks.plugin|null
+intellij.execution.serviceView.plugin|null
+intellij.grid.core.plugin|null
+intellij.grid.plugin|null
+intellij.java.aetherDependencyResolver.plugin|null
+intellij.libraries.misc.plugin|null
+intellij.navbar.plugin|null
+intellij.platform.ijent.bundledBinaries|Remote Development
+intellij.recentFiles.plugin|null
+intellij.ssh.plugin|null
+intellij.structuralSearch.plugin|null
+intellij.structureView.plugin|null
+intellij.testRunner.plugin|null
+intellij.todo.plugin|null
+intellij.vcs.split.plugin|null
+org.intellij.groovy.live.templates|null
+org.intellij.groovy|Languages
+org.intellij.plugins.markdown|Languages
+org.jetbrains.idea.maven|Build Tools
+org.jetbrains.idea.reposearch|Build Tools
+org.jetbrains.kotlin|Languages
+org.jetbrains.plugins.terminal|Other Tools
+org.jetbrains.plugins.yaml|Languages
+org.toml.lang|Languages

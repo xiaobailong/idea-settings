@@ -1,0 +1,211 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bigdata_pe_stock_index" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="BRANCH:hotfix_0728_gqy" type="5dcd9098:BranchNodeDescriptor$Branch" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="lam344wm9n1m" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;Markdown&quot;: {
+      &quot;usageCount&quot;: 7,
+      &quot;lastUsed&quot;: 1783688178601
+    },
+    &quot;Groovy&quot;: {
+      &quot;usageCount&quot;: 3,
+      &quot;lastUsed&quot;: 1785207791215
+    },
+    &quot;SQL&quot;: {
+      &quot;usageCount&quot;: 28,
+      &quot;lastUsed&quot;: 1785207773274
+    },
+    &quot;VcsLog&quot;: {
+      &quot;usageCount&quot;: 7,
+      &quot;lastUsed&quot;: 1785208257785
+    },
+    &quot;DIFF&quot;: {
+      &quot;usageCount&quot;: 10,
+      &quot;lastUsed&quot;: 1785208264999
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_curr_new</find>
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_history_new</find>
+      <find>indexCodeWeight</find>
+      <find>bigdata.pe.stock.resource.pool.a.main.v4.list.page</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="522ab5b6:GitBranchType$REMOTE" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="522ab5b6:GitBranchType$REMOTE" />
+        <item name="REMOTE/[origin]" type="5fc65cac:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;D:/WorkSpace/bigdata_pe_stock_index/指数管理/bigdata_pe_stock_resource_index_member_list_search/bigdata_pe_stock_resource_index_member_list_search_sql/bigdata.pe.stock.resource.index.member.list.search.sql.sql&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="3" lastUsage="1785207791215" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="7" lastUsage="1783688178601" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="28" lastUsage="1785207773274" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="D:\WorkSpace\bigdata_pe_stock_index\.idea\queries" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26765132" />
+      <window_info id="Commit" order="1" weight="0.26776385" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="kybox" order="3" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.33064514" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="KyBoxResult" order="6" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32993728" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cline" order="5" />
+      <window_info anchor="right" id="Trae AI" order="6" />
+      <unified_weights bottom="0.33064514" left="0.26765132" right="0.32993728" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1460" y="666" width="1158" height="700" key="MergeDialog" timestamp="1783520015673">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1460" y="666" width="1158" height="700" key="MergeDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1783520015673" />
+    <state x="-1346" y="768" key="MultipleFileMergeDialog" timestamp="1783520015695">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1346" y="768" key="MultipleFileMergeDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1783520015695" />
+    <state x="-1368" y="730" key="Vcs.Push.Dialog.v2" timestamp="1785208275397">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1368" y="533" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1781058425214" />
+    <state x="-1368" y="730" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1785208275397" />
+    <state x="-1203" y="729" key="git4idea.branch.GitSmartOperationDialog" timestamp="1785208183940">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1203" y="729" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1785208183940" />
+    <state x="-1296" y="712" width="670" height="691" key="search.everywhere.popup" timestamp="1785207797242">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1296" y="515" width="670" height="691" key="search.everywhere.popup/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782563294377" />
+    <state x="-1296" y="712" width="670" height="691" key="search.everywhere.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1785207797242" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;689912380&quot;,&quot;projectHash&quot;:&quot;d440b0c7&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0610_472744_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_index&quot;}]}" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-87953905&quot;,&quot;projectHash&quot;:&quot;d440b0c7&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;dev_0610_472744_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_index&quot;}]}" />
+    <entry file="file://$PROJECT_DIR$/指数管理/bigdata_pe_stock_resource_index_member_list_sum/bigdata_pe_stock_resource_index_member_list_sum_sql/bigdata.pe.stock.resource.index.member.list.sum.sql.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指数管理/bigdata_pe_stock_resource_index_member_list_allcode_search/bigdata_pe_stock_resource_index_member_list_allcode_search_sql/bigdata.pe.stock.resource.index.member.list.allcode.search.sql.sql" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1824772339&quot;,&quot;projectHash&quot;:&quot;d440b0c7&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;gray&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_index&quot;}]}" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1912403889&quot;,&quot;projectHash&quot;:&quot;d440b0c7&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;dev_0711_475626_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_index&quot;}]}" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-76843942&quot;,&quot;projectHash&quot;:&quot;d440b0c7&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0711_475626_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_index&quot;}]}" />
+    <entry file="file://$PROJECT_DIR$/指数管理/bigdata_pe_stock_resource_index_member_list_search/bigdata_pe_stock_resource_index_member_list_search_page_sql/bigdata.pe.stock.resource.index.member.list.search.page.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指数管理/bigdata_pe_stock_resource_index_member_list_search/bigdata.pe.stock.resource.index.member.list.search.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指数管理/bigdata_pe_stock_resource_index_member_list_search/bigdata_pe_stock_resource_index_member_list_search_sql/bigdata.pe.stock.resource.index.member.list.search.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;627940739&quot;,&quot;projectHash&quot;:&quot;d440b0c7&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;hotfix_0728_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_index&quot;}]}" />
+  </component>
+</project>

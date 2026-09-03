@@ -1,0 +1,1389 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bigdata_pe_stock_pool" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="BRANCH:dev_0903_478617_gqy" type="5dcd9098:BranchNodeDescriptor$Branch" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3o0l1ju5hh12b" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy" file-id="54320" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="5456">
+              <caret line="248" column="71" selection-start-line="248" selection-start-column="71" selection-end-line="248" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,94,10,27,105,99,111,110,115,47,103,114,111,111,118,121,47,103,114,111,111,118,121,70,105,108,101,46,115,118,103,18,29,105,99,111,110,115,47,103,114,111,111,118,121,47,110,101,119,117,105,47,103,114,111,111,118,121,46,115,118,103,26,19,111,114,103,46,105,110,116,101,108,108,105,106,46,103,114,111,111,118,121,40,-112,-83,-107,-64,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata_pe_stock_resource_pool_detail_new_sum_sql/bigdata.pe.stock.resource.pool.detail.new.sum.sql.sql" file-id="54215" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="440">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"bigdata.pe.stock.resource.pool.detail.new.sum.sql.sql","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,47,10,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,115,113,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-92,-113,-41,-75,2,48,2]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata_pe_stock_resource_pool_detail_new_list_sql/bigdata.pe.stock.resource.pool.detail.new.list.sql.sql" file-id="54218" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="422">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"bigdata.pe.stock.resource.pool.detail.new.list.sql.sql","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,47,10,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,115,113,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-92,-113,-41,-75,2,48,2]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "DIFF": {
+      "usageCount": 1056,
+      "lastUsed": 1788403940610
+    },
+    "VcsLog": {
+      "usageCount": 663,
+      "lastUsed": 1788403935768
+    },
+    "Groovy": {
+      "usageCount": 1020,
+      "lastUsed": 1788416099187
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1778294767411
+    },
+    "SQL": {
+      "usageCount": 3755,
+      "lastUsed": 1788416098526
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 24,
+      "lastUsed": 1787400625061
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1780566846481
+    },
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1782269574073
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1784607873882
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>industries_f</find>
+      <find>v_stock_index_code_detail</find>
+      <find>t2</find>
+      <find>行内市值</find>
+      <find>finance_date</find>
+      <find>currency</find>
+      <find>v_simulated_trade_result</find>
+      <find>v_real_t0_trade_permissions</find>
+      <find>dataScopeSql</find>
+      <find>dwd_pe_strategy_intraday_real.dwd_pe_strategy_intraday_real_trade_strategy_stock_selected_rt</find>
+      <find>left join v_simu_t0_trade_strategy_detail t3 /*策略信息表 groovy预处理参数里面已经指定通过t3引用表字段，此join别名只能为t3*/</find>
+      <find>dwd_pe_trade_real_trade_stock_add_hold_config_rt</find>
+      <find>simuBuyStrategyUserId</find>
+      <find>strategy_member_dept_id</find>
+      <find>dwd_pe_tams_pt_sub_account_user_config_rt</find>
+      <find>startDate</find>
+      <find>formalBuyStrategyUserId</find>
+      <find>v_simu_t0_trade_detail</find>
+      <find>sum(if(coalesce(t1.latest_available_quantity,0)&gt;0,1,0)</find>
+      <find>策略当前状态，字典：10</find>
+      <find>order_side 买卖方向(10:买入, 20:卖出)</find>
+      <find>v_simu_t0_trade_result</find>
+      <find>v_real_t0_trade_result</find>
+      <find>t331</find>
+      <find>buyStrategyQxSql</find>
+      <find>v_simu_t0_trade_strategy_detail</find>
+      <find>need_match_sell_price_no_fee</find>
+      <find>bigdata.pe.stock.resource.pool.simu.sell.detail.t20.sql</find>
+      <find>need_matched_sell_price_no_fee</find>
+      <find>次日解禁</find>
+      <find>next_day_lifting</find>
+      <find>v_stock_analyze_display</find>
+      <find>stock_analyze</find>
+      <find>concept_repeat_info</find>
+      <find>cum_amount_diff_hb</find>
+      <find>incr_fast_rate_num</find>
+      <find>dwd_pe_tams_pt.dwd_pe_tams_pt_sub_account_user_config_rt</find>
+      <find>dwd_pe_tams.dwd_pe_tams_sub_account_user_config_rt</find>
+      <find>v_real_t0_trade_strategy_detail</find>
+      <find>t3.buy_sell_type</find>
+      <find>strategy_name</find>
+      <find>totalvolumeShare</find>
+      <find>turnoverRateStat</find>
+      <find>totaltradeamount</find>
+      <find>totalvolume</find>
+      <find>turnoverStat</find>
+      <find>pctChangeWi</find>
+      <find>wdqaPctChange</find>
+      <find>cum_amount_hb</find>
+      <find>current_date</find>
+      <find>DateUtil.now()</find>
+      <find>now()</find>
+      <find>java.time.LocalDate</find>
+      <find>LocalDateTime</find>
+      <find>sac.</find>
+      <find>概念</find>
+      <find>北交</find>
+      <find>stockListRank</find>
+      <find>v_concept_stock_info</find>
+      <find>累计</find>
+      <find>up_flag</find>
+      <find>dateSql</find>
+      <find>LocalDate</find>
+      <find>holdShares</find>
+      <find>incr_fast_rate</find>
+      <find>industries_fast_rank</find>
+      <find>concept_stock_cnt</find>
+      <find>concept_fast_rank</find>
+      <find>stockCodeList</find>
+      <find>industryRepeatInfo</find>
+      <find>conceptRepeatInfo</find>
+      <find>卖出要求</find>
+      <find>2026-07-03</find>
+      <find>涨</find>
+      <find>上涨</find>
+      <find>up_ratio_max</find>
+      <find>tick</find>
+      <find>股票指数</find>
+      <find>suspend_flag</find>
+      <find>v_stock_analysis_history_new</find>
+      <find>LocalTime</find>
+      <find>curDate</find>
+      <find>orderByClauses</find>
+      <find>stock_code</find>
+      <find>max_trade_mm_flag</find>
+      <find>trade_mm_max</find>
+      <find>最新交易日不从天表取</find>
+      <find>t3</find>
+      <find>radar_flag</find>
+      <find>rn</find>
+      <find>v_pe_stock_pool_group</find>
+      <find>财报</find>
+      <find>v_finance_report_date_detail</find>
+      <find>v_selected_stock_rank</find>
+      <find>t27</find>
+      <find>%Y-%m-%d') &lt;&gt; t1.record_date</find>
+      <find>sub_account_id</find>
+      <find>need_match_gw_trade_time</find>
+      <find>v_base_strategy_stock_sell_detail_daily_group</find>
+      <find>dwd_pe_tams_zero_base_sub_account_stock_num_rt</find>
+      <find>cast</find>
+      <find>finance_report_title</find>
+      <find>hold_shares</find>
+      <find>688549.SH,002426.SZ,601868.SH,600221.SH,000100.SZ,002350.SZ,600863.SH,002959.SZ,688472.SH,688358.SH,002421.SZ,301633.SZ,600667.SH,600010.SH,600027.SH,000858.SZ,301526.SZ,688309.SH,001395.SZ,603091.SH,603235.SH,000564.SZ,300584.SZ,000539.SZ,000767.SZ,603205.SH,688981.SH,600157.SH,688538.SH,603102.SH,603325.SH,300218.SZ,002425.SZ,600011.SH,002354.SZ,001388.SZ,300184.SZ,603859.SH,000727.SZ,603421.SH,301491.SZ,688099.SH,002081.SZ,300182.SZ,002038.SZ,301004.SZ,601138.SH,600795.SH,688126.SH,688223.SH,688387.SH,600726.SH,600522.SH,300059.SZ,603370.SH,300058.SZ,300197.SZ,002251.SZ,002991.SZ,600028.SH,688357.SH,001306.SZ,688567.SH,002736.SZ,688001.SH,000158.SZ,601975.SH,600809.SH,601600.SH,688008.SH,002131.SZ,688403.SH,601016.SH,601991.SH,688009.SH,688147.SH,300433.SZ,300088.SZ,603345.SH,002506.SZ,688151.SH,000725.SZ,001238.SZ,000630.SZ,603916.SH,300420.SZ,301288.SZ,688469.SH,688352.SH,002217.SZ,000509.SZ,001896.SZ,603993.SH,002185.SZ,605499.SH</find>
+      <find>predictIssuingDate</find>
+      <find>selected_stock_rank</find>
+      <find>t1.trade_mm</find>
+      <find>stock_select_flag</find>
+      <find>concept_select_flag</find>
+      <find>select_flag</find>
+      <find>max_trade_mm</find>
+      <find>end_before_hold_cost_diff</find>
+      <find>retail_vol_diff_rate</find>
+      <find>retailVolumeDiffRateLast</find>
+      <find>end_before_hold_income_diff</find>
+      <find>is_bse</find>
+      <find>t2.up_rate</find>
+      <find>t2.trade_mm</find>
+      <find>un_adjusted_close_price</find>
+      <find>end_hold_income_diff</find>
+      <find>end_hold_cost_diff</find>
+      <find>end_hold_income_diff_rate</find>
+      <find>v_t0_strategy_base_sub_account_stock_position_income_diff_sum_to_user</find>
+      <find>batch_num</find>
+      <find>strategy_code</find>
+      <find>t2.un_adjusted_close_price</find>
+      <find>lag(</find>
+      <find>v_t0_strategy_base_sub_account_stock_position_income_diff_group</find>
+      <find>v_end_hold_stock_analysis_mm_new_last</find>
+      <find>buy_shares</find>
+      <find>to_record_hold_shares</find>
+      <find>v_t0_public_base_sub_account_stock_position_income_res</find>
+      <find>_pt_</find>
+      <find>v_ads_user_group_sum</find>
+      <find>stock_analysis_history_new</find>
+      <find>v_end_hold_stock_analysis_mm_new</find>
+      <find>stock_num_last</find>
+      <find>v_market_ss_up_ratio</find>
+      <find>v_stock_analysis_mm_new_detail_yes</find>
+      <find>v_stock_market_mm_all</find>
+      <find>semi</find>
+      <find>v_end_hold_stock_mm</find>
+      <find>retail_volume_diff</find>
+      <find>minute</find>
+      <find>MINUTE</find>
+      <find>timestampdiff</find>
+      <find>minute_time</find>
+      <find>periodPctChg</find>
+      <find>trade_mm</find>
+      <find>trade_time</find>
+      <find>cumAmountHB</find>
+      <find>v_pe_stock_pool</find>
+      <find>to_pre_record_hold_shares</find>
+      <find>morning_flag</find>
+      <find>DateTimeFormatter</find>
+      <find>curDay</find>
+      <find>&lt;%if</find>
+      <find>ig</find>
+      <find>org_data</find>
+      <find>order by</find>
+      <find>2026-07-17</find>
+      <find>time_diff</find>
+      <find>v_end_hold_stock</find>
+      <find>v_end_hold_stock_analysis_mm_new_lag1</find>
+      <find>v_stock_analysis_history_new_yes</find>
+      <find>v_hold_stock_sum_to_batch_strategy_user</find>
+      <find>ALL</find>
+      <find>A_ALL</find>
+      <find>record_un_adjusted_pre_close_price</find>
+      <find>retail_volume_diff_rate_last</find>
+      <find>_rate_last</find>
+      <find>retail_volume_diff_last</find>
+      <find>v_stock_analysis_mm_new_detail_all</find>
+      <find>v_pe_stock_concept_type_detail</find>
+      <find>v_trade_date_cal_minutes</find>
+      <find>v_ads_user_group_sum_join_overall_market</find>
+      <find>trade_date</find>
+      <find>v_pe_stock_concept_relation_mm</find>
+      <find>stock_sign_strategy_wait_configer</find>
+      <find>replayEndTime</find>
+      <find>trade_time_last</find>
+      <find>dwd_pe_stock_analysis_history_new</find>
+      <find>curTime</find>
+      <find>cal_date_last2</find>
+      <find>trade_Amount</find>
+      <find>endDate</find>
+      <find>actual_turnover_rate</find>
+      <find>buyStrategyUserId</find>
+      <find>${buyStrategyUserId}</find>
+      <find>his5</find>
+      <find>${buyStrategyQxSql}</find>
+      <find>t160</find>
+      <find>has_qx_b</find>
+      <find>open_price</find>
+      <find>next_day_pct_chg</find>
+      <find>close_pct_chg</find>
+      <find>换手率</find>
+      <find>consStocks</find>
+      <find>history</find>
+      <find>dwd_pe_stock.dwd_pe_stock_basic_info_ipo_rt</find>
+      <find>2026-07-23</find>
+      <find>retail_buy_amount</find>
+      <find>last_trade_date</find>
+      <find>/*最新价*/</find>
+      <find>t29.stock_code is not null</find>
+      <find>dwd_pe_strategy_intraday_sim.dwd_pe_strategy_intraday_sim_trade_strategy_stock_selected_rt</find>
+      <find>dwd_pe_strategy_intraday_real_trade_strategy_stock_selected_rt</find>
+      <find>dwd_pe_stock_analysis_curr_new</find>
+      <find>not between '11:31' and '12:59'</find>
+      <find>indexGnName</find>
+      <find>retailVolumeDiff</find>
+      <find>array_dis</find>
+      <find>concept_type_pop</find>
+      <find>index_name</find>
+      <find>concept_type_name</find>
+      <find>bigdata.pe.stock.pool.detail.market.anal.list.hotspot</find>
+      <find>industries</find>
+      <find>行业</find>
+      <find>bigdata.pe.stock.pool.detail.market.anal.trend.hotspot</find>
+      <find>stockCode</find>
+      <find>up_max_cnt</find>
+      <find>v_pe_stock_pool_group_up_down</find>
+      <find>new_flag</find>
+      <find>09:25</find>
+      <find>trade_amount_yes</find>
+      <find>v_pe_stock_concept_selected</find>
+      <find>marketAnalysisQueryMin</find>
+      <find>v_pe_stock_concept_type_group</find>
+      <find>dwd_pe_stock_analysis_mm_new</find>
+      <find>avgPctChgLast</find>
+      <find>minRetailAmtDiffLast</find>
+      <find>minRetailAmtDiff</find>
+      <find>21</find>
+      <find>22</find>
+      <find>v_t0_strategy_base_sub_account_stock_position_income_diff_tmp</find>
+      <find>dim_pe_common.dim_pe_common_stock_trade_calendar_fs</find>
+      <find>dim_pe_common.dim_pe_common_trade_calendar</find>
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_history_new</find>
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_mm_new</find>
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_ss_rt</find>
+      <find>dwd_pe_stock.dwd_pe_stock_concept_kline_mm</find>
+      <find>dwd_pe_stock.dwd_pe_stock_concept_relation_daily_rt</find>
+      <find>dwd_pe_stock.dwd_pe_stock_market_mm</find>
+      <find>dwd_pe_tams_zero.dwd_pe_tams_zero_stock_position_dividend_adj_rt</find>
+      <find>dwd_pe_stock.dwd_pe_stock_industries_kline_mm</find>
+      <find>dwd_pe_stock.dwd_pe_stock_market_ss</find>
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_curr_new</find>
+      <find>cum_amount_diff</find>
+      <find>v_end_hold_stocks</find>
+      <find>${endDate}</find>
+      <find>v_t0_strategy_base_sub_account_stock_batch_filter</find>
+      <find>2026-08-06</find>
+      <find>ads_pe_stock_pool_stock_analysis_tk_detail</find>
+      <find>trade_minute</find>
+      <find>T0-计算收益分表</find>
+      <find>concept</find>
+      <find>buyStrategyMembersSql</find>
+      <find>t2.close_price</find>
+      <find>v_end_hold_stock_analysis_mm_new_all</find>
+      <find>/*首次调用待上市以及新股排序特写，待上市&gt;新股，涨跌幅，股票编码*/</find>
+      <find>array_join</find>
+      <find>bigdata.pe.stock.resource.pool.a.main.sql.730.v4</find>
+      <find>repeatPerList</find>
+      <find>concept_type_names</find>
+      <find>concept_type_ids</find>
+      <find>concept_list</find>
+      <find>v_pe_stock_concept_relation</find>
+      <find>t2.stock_codes</find>
+      <find>v_pe_stock_concept_parent_relation</find>
+      <find>hqfxConceptCode</find>
+      <find>hqfxIndustryCode</find>
+      <find>v_stock_concept_industry_detail</find>
+      <find>v_concept_relation_daily_detail</find>
+      <find>v_concept_relation_daily_detail_filter</find>
+      <find>v_industries_relation_daily_detail_filter</find>
+      <find>&lt;%}else if(conceptShowLevel=='4'){%&gt;</find>
+      <find>dwd_pe_tams_zero_sub_account_user_config_rt</find>
+      <find>batch_num_rank</find>
+      <find>dwd_pe_tams_zero.dwd_pe_tams_zero_base_sub_account_stock_num_rt</find>
+      <find>stockCnt</find>
+      <find>open_position_date</find>
+      <find>首次调用待上市以及新股排序特写，待上市&gt;新股，涨跌幅，股票编码</find>
+      <find>&lt;%if(isNotEmpty(stockCode)&amp;&amp;round==false){%&gt;
+        and t2.enabled_flag = 1
+        and t2.apply_date = '${endDate}'
+        and t2.stock_code in ('${stockCode}')
+        &lt;%} else if(round==false){%&gt;
+        and 1!=1
+        &lt;%}%&gt;</find>
+      <find>v_stock_index_code</find>
+      <find>t28</find>
+      <find>归因</find>
+      <find>t4</find>
+      <find>stock_index_code</find>
+      <find>stockIndexCode</find>
+      <find>dwd_pe_stock_chasing_merge</find>
+      <find>stockIndexCodeStr</find>
+      <find />
+      <find>dwd_pe_stock_finance_offline_td</find>
+      <find>release_date</find>
+      <find>stock_score</find>
+      <find>stock_news_read_status_record</find>
+      <find>v_likong_news</find>
+      <find>v_dim_trade_date</find>
+      <find>newsStatus</find>
+      <find>dwd_pe_stock.dwd_pe_stock_company_news_rt</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>finance_report_status</replace>
+      <replace>v_real_strategy_stock_sell_detail</replace>
+      <replace>v_simu_strategy_stock_sell_detail</replace>
+      <replace>v_simu_strategy_stock_trade_detail</replace>
+      <replace>v_real_strategy_stock_trade_detail</replace>
+      <replace>substr(t1.deal_date,1,10)</replace>
+      <replace>buyStrategyMembersSql</replace>
+      <replace>buyStrategyMembersDeptSql</replace>
+      <replace>v_real_trade_strategy</replace>
+      <replace>v_real_t0_trade_strategy_detail</replace>
+      <replace>v_real_t0_trade_strategy_stock_selected</replace>
+      <replace>v_simu_t0_trade_strategy_detail</replace>
+      <replace>v_simu_t0_trade_buy</replace>
+      <replace>app_doris_bd_s_ro</replace>
+      <replace>543HGG#9lch18v</replace>
+      <replace>13310</replace>
+      <replace>_temp_</replace>
+      <replace>user_id</replace>
+      <replace>base_position_type</replace>
+      <replace>10-固底  20-临底 30-底仓 40-备用金</replace>
+      <replace>formalBuyStrategyUserId</replace>
+      <replace>bigdata.pe.stock.resource.pool.a.strategy.list</replace>
+      <replace>bigdata.pe.stock.resource.pool.simu.sell.detail</replace>
+      <replace>bigdata.pe.stock.resource.pool.b.strategy.list.sql</replace>
+      <replace>bigdata.pe.stock.resource.pool.b.strategy.detail.sql</replace>
+      <replace>bigdata.pe.stock.resource.pool.real.sell.detail.sql</replace>
+      <replace>策略大类 10-固底  20-临底 30-底仓 40-备用金</replace>
+      <replace>buy_deal_date</replace>
+      <replace>buy_user_id</replace>
+      <replace>latest_available_quantity</replace>
+      <replace>latest_buy_full_adj_price</replace>
+      <replace>pe-mysql-prd-futures-m.ycfm-erp.net</replace>
+      <replace>app_doris_s_ro</replace>
+      <replace>vdNd4zViwR47keE</replace>
+      <replace>-10</replace>
+      <replace>seqNum</replace>
+      <replace>T0StockSelected</replace>
+      <replace>t0StockSelected</replace>
+      <replace>rowSeq</replace>
+      <replace>t1120</replace>
+      <replace>t1130</replace>
+      <replace>calDateArr</replace>
+      <replace>trade_alarm_sim_t0</replace>
+      <replace>trade_alarm_stock_sim_t0</replace>
+      <replace>dwd_pe_trade_intraday_notify_sim</replace>
+      <replace>pe-gray-public-futures-mysql-m.ycfm-erp.net</replace>
+      <replace>startQueryDate</replace>
+      <replace>endQueryDate</replace>
+      <replace>v_simu_trade_strategy_detail</replace>
+      <replace>dwd_pe_tams_zero_pt.dwd_pe_tams_zero_pt_sub_account_user_config_rt</replace>
+      <replace>need_match_sell_price_no_fee</replace>
+      <replace>dwd_pe_tams_zero.dwd_pe_tams_zero_sub_account_user_config_rt</replace>
+      <replace>v_real_trade_strategy_detail</replace>
+      <replace>t1.</replace>
+      <replace>retail_volume_diff_rate</replace>
+      <replace>end_before_hold_income_diff</replace>
+      <replace>end_before_hold_cost_diff</replace>
+      <replace>end_before_hold_income_diff_rate</replace>
+      <replace>v_t0_strategy_base_sub_account_stock_position_income_diff_tmp</replace>
+      <replace>v_end_hold_stock_analysis_mm_new</replace>
+      <replace>trade_minute</replace>
+      <replace>stock_analysis_mm_new_detail</replace>
+      <replace>trade_time</replace>
+      <replace>trade_mm_time</replace>
+      <replace>MINUTE</replace>
+      <replace>${endDate}</replace>
+      <replace>ALL</replace>
+      <replace>A_ALL</replace>
+      <replace>dayTrendStartDate</replace>
+      <replace>${dayTrendStartDate</replace>
+      <replace>${dayTrendEndDate}</replace>
+      <replace>09:30</replace>
+      <replace>concept</replace>
+      <replace>热点</replace>
+      <replace>20</replace>
+      <replace>21</replace>
+      <replace>2026-08-06</replace>
+      <replace>2026-07-29</replace>
+      <replace>industries</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页列表</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-公共接口</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\模拟交易\bigdata_pe_stock_resource_pool_a_strategy_detail</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\模拟交易\bigdata_pe_stock_resource_pool_a_strategy_list</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\模拟交易\bigdata_pe_stock_resource_pool_simu_sell_detail</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\正式交易\bigdata_pe_stock_resource_pool_b_strategy_detail</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\正式交易\bigdata_pe_stock_resource_pool_b_strategy_list</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\正式交易\bigdata_pe_stock_resource_pool_real_sell_detail</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\模拟交易</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页接口\股票资源池-列表弹窗\正式交易</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-首页列表\bigdata_pe_stock_resource_pool_a_main_sql_v4</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_list</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_trend</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_trend_day</dir>
+      <dir>D:\WorkSpace\bigdata_pe_stock_pool</dir>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_trend</dir>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_trend_day</dir>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_trend_tk</dir>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池\股票资源池-详情接口\股票资源池-行情看板\bigdata_pe_stock_pool_detail_market_anal_list</dir>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池\股票资源池-首页列表\bigdata_pe_stock_resource_pool_a_main_sql_v4</dir>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="D:\WorkSpace\bigdata_pe\bigdata_pe_stock_pool\股票资源池" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_industries_level3/bigdata.pe.stock.pool.detail.market.anal.list.industries.level3.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_industries_level4/bigdata.pe.stock.pool.detail.market.anal.list.industries.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_hotspot/bigdata.pe.stock.pool.detail.market.anal.list.hotspot.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_hotspot_level4/bigdata.pe.stock.pool.detail.market.anal.list.hotspot.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_hotspot_level4/bigdata.pe.stock.pool.detail.market.anal.trend.hotspot.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_industries_level2/bigdata.pe.stock.pool.detail.market.anal.trend.industries.level2.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_industries_level3/bigdata.pe.stock.pool.detail.market.anal.trend.industries.level3.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_industries_level4/bigdata.pe.stock.pool.detail.market.anal.trend.industries.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_hotspot_level4/bigdata.pe.stock.pool.detail.market.anal.trend.day.hotspot.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_industries_level2/bigdata.pe.stock.pool.detail.market.anal.trend.day.industries.level2.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_industries_level3/bigdata.pe.stock.pool.detail.market.anal.trend.day.industries.level3.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_industries_level4/bigdata.pe.stock.pool.detail.market.anal.trend.day.industries.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_hotspot_level4/bigdata.pe.stock.pool.detail.market.anal.trend.tk.hotspot.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_industries_level2/bigdata.pe.stock.pool.detail.market.anal.trend.tk.industries.level2.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_industries_level3/bigdata.pe.stock.pool.detail.market.anal.trend.tk.industries.level3.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_industries_level4/bigdata.pe.stock.pool.detail.market.anal.trend.tk.industries.level4.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_concept/bigdata.pe.stock.pool.detail.market.anal.list.concept.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_hotspot_level1/bigdata.pe.stock.pool.detail.market.anal.list.hotspot.level1.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_concept/bigdata.pe.stock.pool.detail.market.anal.trend.day.concept.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_hotspot_level1/bigdata.pe.stock.pool.detail.market.anal.trend.day.hotspot.level1.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_concept/bigdata.pe.stock.pool.detail.market.anal.trend.tk.concept.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_hotspot_level1/bigdata.pe.stock.pool.detail.market.anal.trend.tk.hotspot.level1.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_hotspot_level1/bigdata.pe.stock.pool.detail.market.anal.trend.hotspot.level1.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_concept/bigdata.pe.stock.pool.detail.market.anal.trend.concept.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata.pe.stock.pool.detail.market.anal.list.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_round/bigdata.pe.stock.pool.detail.market.anal.trend.round.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata.pe.stock.pool.detail.market.anal.trend.day.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata.pe.stock.pool.detail.market.anal.trend.tk.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata.pe.stock.pool.detail.market.anal.trend.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/log.txt&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list_round/bigdata.pe.stock.pool.detail.market.anal.list.round.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/持底市值浮盈/bigdata_pe_stock_resource_pool_base_position_flag/bigdata.pe.stock.resource.pool.base.position.flag.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_hold/bigdata.pe.stock.pool.detail.market.anal.list.hold.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/持底市值浮盈/bigdata_pe_stock_resource_pool_base_position_flag/bigdata_pe_stock_resource_pool_base_position_flag_sql/bigdata.pe.stock.resource.pool.base.position.flag.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_hold/bigdata.pe.stock.pool.detail.market.anal.trend.tk.hold.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_sql/bigdata.pe.stock.pool.detail.market.anal.trend.tk.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_industries/bigdata.pe.stock.pool.detail.market.anal.trend.tk.industries.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_hotspot/bigdata.pe.stock.pool.detail.market.anal.trend.tk.hotspot.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/持底市值浮盈/bigdata_pe_stock_resource_pool_base_position_batchNum/bigdata.pe.stock.resource.pool.base.position.batchNum.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_sr/bigdata.pe.stock.resource.pool.a.main.sql.v4.sr.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_sql/bigdata.pe.stock.pool.detail.market.anal.list.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_hotspot/bigdata.pe.stock.pool.detail.market.anal.trend.hotspot.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_hotspot/bigdata.pe.stock.pool.detail.market.anal.trend.day.hotspot.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_industries/bigdata.pe.stock.pool.detail.market.anal.trend.industries.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_industries/bigdata.pe.stock.pool.detail.market.anal.trend.day.industries.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_v4/bigdata.pe.stock.resource.pool.a.main.v4.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_sum/bigdata_pe_stock_resource_pool_a_new_sum_sql/bigdata.pe.stock.resource.pool.a.new.sum.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_list/bigdata.pe.stock.resource.pool.a.new.list.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_list/bigdata_pe_stock_resource_pool_a_new_list_sql/bigdata.pe.stock.resource.pool.a.new.list.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_sum/bigdata.pe.stock.resource.pool.a.new.sum.groovy&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="1020" lastUsage="1788416099188" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1782269574073" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1778294767415" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="3489" lastUsage="1787370436755" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="24" lastUsage="1787400625061" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata_pe_stock_resource_pool_detail_new_list_sql}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata_pe_stock_resource_pool_detail_new_sum_sql}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_pool" />
+            <item name="bigdata_pe_stock_pool" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_pool" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/下线" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="下线" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/下线}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/股票资源池" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-公共接口" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-公共接口" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-公共接口}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-对外接口" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-对外接口" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-对外接口}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-聚合查询" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-聚合查询}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-详情接口" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/持底市值浮盈" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="持底市值浮盈" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/持底市值浮盈}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-K线-跟风订单" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-K线-跟风订单" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-K线-跟风订单}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-K线-量价排名" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-K线-量价排名" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-K线-量价排名}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-股票详情" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-股票详情" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-股票详情}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-舆情信息" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_detail_new_list" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata_pe_stock_resource_pool_detail_new_list_sql" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_detail_new_list_sql" />
+                        <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata_pe_stock_resource_pool_detail_new_list_sql}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata_pe_stock_resource_pool_detail_new_list_sql/bigdata.pe.stock.resource.pool.detail.new.list.sql.sql" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/sql.svg" iconPlugin="com.intellij" isLeaf="true" text="bigdata.pe.stock.resource.pool.detail.new.list.sql.sql" />
+                          <item name="bigdata.pe.stock.resource.pool.detail.new.list.sql.sql" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata.pe.stock.resource.pool.detail.new.list.groovy" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.stock.resource.pool.detail.new.list.groovy" />
+                        <item name="bigdata.pe.stock.resource.pool.detail.new.list.groovy" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_detail_new_sum" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata_pe_stock_resource_pool_detail_new_sum_sql" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_detail_new_sum_sql" />
+                        <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata_pe_stock_resource_pool_detail_new_sum_sql}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata_pe_stock_resource_pool_detail_new_sum_sql/bigdata.pe.stock.resource.pool.detail.new.sum.sql.sql" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/sql.svg" iconPlugin="com.intellij" isLeaf="true" text="bigdata.pe.stock.resource.pool.detail.new.sum.sql.sql" />
+                          <item name="bigdata.pe.stock.resource.pool.detail.new.sum.sql.sql" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata.pe.stock.resource.pool.detail.new.sum.groovy" />
+                          </map>
+                        </attributes>
+                        <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.stock.resource.pool.detail.new.sum.groovy" />
+                        <item name="bigdata.pe.stock.resource.pool.detail.new.sum.groovy" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-行情看板" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-行情看板}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-财报信息" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-财报信息" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-详情接口/股票资源池-财报信息}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-首页列表" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_sql_v4" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_date" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_sql_v4_date" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_date}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_pctchg_sql" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_sql_v4_pctchg_sql" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_pctchg_sql}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_real_t0" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_sql_v4_real_t0" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_real_t0}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_simu_t0" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_sql_v4_simu_t0" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_simu_t0}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_sr" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_sql_v4_sr" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_sr}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy" />
+                      <item name="bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_v4" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_main_v4" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_v4}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_sum_round_robin" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_sum_round_robin" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_sum_round_robin}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_sum_round_robin_common" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_sum_round_robin_common" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_sum_round_robin_common}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_sum_v4" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_a_sum_v4" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_sum_v4}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_industry_analysis_list" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_resource_pool_industry_analysis_list" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_industry_analysis_list}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-首页接口" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-首页接口" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool/股票资源池/股票资源池-首页接口}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/markdown.svg" iconPlugin="com.intellij" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="D:\WorkSpace\bigdata_pe_stock_pool\.idea\queries" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Database Script.bigdata.pe.stock.pool.detail.market.anal.trend.hold.sql" />
+    </history>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="本地" workingDirectory="D:\WorkSpace\bigdata_pe_stock_pool" processType="SHELL">
+        <option name="shellCommand">
+          <option value="powershell.exe" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5016978" visible="true" weight="0.23671874" />
+      <window_info id="Commit" order="1" sideWeight="0.5016978" weight="0.29869792" />
+      <window_info id="Structure" order="2" sideWeight="0.49830222" side_tool="true" weight="0.2658854" />
+      <window_info id="kybox" order="3" show_stripe_button="false" />
+      <window_info id="VcsChanges" order="4" weight="0.2658854" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.35707363" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3764535" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="KyBoxResult" order="5" weight="0.3764535" />
+      <window_info anchor="bottom" id="Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" sideWeight="0.50137925" weight="0.3049479" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cline" order="5" sideWeight="0.50102353" weight="0.22890624" />
+      <window_info anchor="right" id="Trae AI" order="6" sideWeight="0.4986207" weight="0.3049479" />
+      <unified_weights bottom="0.35707363" left="0.23671874" right="0.3049479" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Version Control</value>
+      <value>Trae AI</value>
+      <value>Commit</value>
+      <value>VcsChanges</value>
+      <value>Cline</value>
+      <value>Terminal</value>
+      <value>Structure</value>
+      <value>KyBoxResult</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1259" y="827" width="500" height="350" key="#Custom_Plugin_Repositories" timestamp="1785137564596">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1259" y="827" width="500" height="350" key="#Custom_Plugin_Repositories/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1785137564596" />
+    <state x="-1368" y="712" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1788265790791">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1368" y="515" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1780645575845" />
+    <state x="-1368" y="712" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788265790791" />
+    <state x="-1460" y="666" width="1000" height="700" key="CommitChangelistDialog2" timestamp="1784259038088">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1460" y="666" width="1000" height="700" key="CommitChangelistDialog2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1784259038088" />
+    <state x="-1920" y="303" key="FileDocumentManager.FileCacheConflict" timestamp="1781770837410">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1920" y="303" key="FileDocumentManager.FileCacheConflict/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1781770837410" />
+    <state x="-1210" y="662" width="500" height="314" key="Git.CreateWorkingTreeDialog" timestamp="1781664520726">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1210" y="662" width="500" height="314" key="Git.CreateWorkingTreeDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1781664520726" />
+    <state x="-1133" y="924" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1788230553756">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1133" y="924" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788230553756" />
+    <state x="-1380" y="749" width="840" height="547" key="IDE.errors.dialog" timestamp="1787383532575">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1380" y="749" width="840" height="547" key="IDE.errors.dialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787383532575" />
+    <state x="-1920" y="500" width="1920" height="1032" key="MergeDialog" timestamp="1784269031205">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1920" y="500" width="1920" height="1032" key="MergeDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1784269031205" />
+    <state x="-1920" y="500" width="1000" height="700" key="MergeDialog_normalized" timestamp="1784269031206">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1920" y="500" width="1000" height="700" key="MergeDialog_normalized/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1784269031206" />
+    <state x="-1346" y="768" key="MultipleFileMergeDialog" timestamp="1788337160025">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1346" y="768" key="MultipleFileMergeDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788337160025" />
+    <state x="-401" y="1339" width="338" height="133" key="ProcessPopupWindow" timestamp="1787493502588">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-401" y="1339" width="338" height="133" key="ProcessPopupWindow/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787493502588" />
+    <state x="-1158" y="737" key="RollbackChangesDialog" timestamp="1787379761047">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1158" y="540" key="RollbackChangesDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1781749626828" />
+    <state x="-1158" y="737" key="RollbackChangesDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787379761047" />
+    <state x="-1647" y="620" width="929" height="700" key="SettingsEditor" timestamp="1788423190404">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1459" y="455" key="SettingsEditor/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782218564367" />
+    <state x="-1647" y="620" width="929" height="700" key="SettingsEditor/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788423190404" />
+    <state x="-1368" y="745" key="Vcs.Push.Dialog.v2" timestamp="1788403982860">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1368" y="548" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782700264683" />
+    <state x="-1368" y="745" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788403982860" />
+    <state x="3432" y="745" key="Vcs.Push.Dialog.v2/0.0.1440.852/2880.500.1920.1032@2880.500.1920.1032" timestamp="1782703420692" />
+    <state x="414" y="202" key="Vcs.Push.Dialog.v2/0.0.1440.852@0.0.1440.852" timestamp="1783360398989" />
+    <state x="-1258" y="928" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1787711777216">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1258" y="731" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782303388588" />
+    <state x="-1258" y="928" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787711777216" />
+    <state x="-1417" y="629" width="1359" height="640" key="find.popup" timestamp="1788270495288">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1417" y="432" width="1291" height="572" key="find.popup/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782458925411" />
+    <state x="-1417" y="629" width="1359" height="640" key="find.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788270495288" />
+    <state x="-1200" y="730" key="git4idea.branch.GitSmartOperationDialog" timestamp="1788230260777">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1200" y="533" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1781770816245" />
+    <state x="-1200" y="730" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788230260777" />
+    <state width="629" height="400" key="javadoc.popup" timestamp="1782701938458">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state width="629" height="400" key="javadoc.popup/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782701938458" />
+    <state x="-1303" y="584" key="run.anything.popup" timestamp="1787495035366">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1303" y="387" key="run.anything.popup/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1780454354375" />
+    <state x="-1303" y="584" key="run.anything.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1787495035366" />
+    <state x="-1296" y="712" width="1194" height="708" key="search.everywhere.popup" timestamp="1788402782922">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1296" y="515" width="1194" height="708" key="search.everywhere.popup/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782701717020" />
+    <state x="-1296" y="712" width="1194" height="708" key="search.everywhere.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788402782922" />
+    <state x="3504" y="712" width="1194" height="708" key="search.everywhere.popup/0.0.1440.852/2880.500.1920.1032@2880.500.1920.1032" timestamp="1782702391369" />
+    <state x="468" y="175" width="896" height="585" key="search.everywhere.popup/0.0.1440.852@0.0.1440.852" timestamp="1783352884552" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1216386451&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;dev_0831_youhua_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_hotspot/bigdata.pe.stock.pool.detail.market.anal.trend.tk.hotspot.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_tk/bigdata_pe_stock_pool_detail_market_anal_trend_tk_industries/bigdata.pe.stock.pool.detail.market.anal.trend.tk.industries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-2124749425&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0901_478896_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1522456400&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0902_478876_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1509798216&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0831_youhua_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-538570673&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;dev_0831_youhua_gqy&quot;,&quot;inclusiveRef&quot;:&quot;main&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_sql/bigdata.pe.stock.pool.detail.market.anal.trend.day.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_v4/bigdata_pe_stock_resource_pool_a_main_v4_list_page/bigdata.pe.stock.resource.pool.a.main.v4.list.page.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1007490322&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;gray&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1751905708&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;dev_0901_478896_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_sql/bigdata.pe.stock.pool.detail.market.anal.trend.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_v4/bigdata.pe.stock.resource.pool.a.main.v4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="78" column="36" lean-forward="true" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata_pe_stock_resource_pool_a_main_sql_v4_sr/bigdata.pe.stock.resource.pool.a.main.sql.v4.sr.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="537" column="22" lean-forward="true" selection-start-line="537" selection-start-column="22" selection-end-line="537" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;448896168&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;dev_0903_478617_gqy&quot;,&quot;inclusiveRef&quot;:&quot;dev_0902_478876_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_industries/bigdata.pe.stock.pool.detail.market.anal.trend.day.industries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_industries/bigdata.pe.stock.pool.detail.market.anal.trend.industries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend_day/bigdata_pe_stock_pool_detail_market_anal_trend_day_hotspot/bigdata.pe.stock.pool.detail.market.anal.trend.day.hotspot.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_trend/bigdata_pe_stock_pool_detail_market_anal_trend_hotspot/bigdata.pe.stock.pool.detail.market.anal.trend.hotspot.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata_pe_stock_pool_detail_market_anal_list_sql/bigdata.pe.stock.pool.detail.market.anal.list.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="213" column="35" selection-start-line="213" selection-start-column="35" selection-end-line="213" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-公共接口/bigdata_pe_stock_resource_pool_pub_mysql_table_check/bigdata.pe.stock.resource.pool.pub.mysql.table.check.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="105" column="130" selection-start-line="105" selection-start-column="78" selection-end-line="105" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_sum/bigdata.pe.stock.resource.pool.a.new.sum.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;2088531796&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0903_478617_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_list/bigdata.pe.stock.resource.pool.a.new.list.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-行情看板/bigdata_pe_stock_pool_detail_market_anal_list/bigdata.pe.stock.pool.detail.market.anal.list.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" column="67" lean-forward="true" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-121129209&quot;,&quot;projectHash&quot;:&quot;ebf58c68&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;dev_0903_478617_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_sum/bigdata_pe_stock_resource_pool_a_new_sum_sql/bigdata.pe.stock.resource.pool.a.new.sum.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页接口/股票资源池-舆情球弹窗/bigdata_pe_stock_resource_pool_a_new_list/bigdata_pe_stock_resource_pool_a_new_list_sql/bigdata.pe.stock.resource.pool.a.new.list.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_sum/bigdata_pe_stock_resource_pool_detail_new_sum_sql/bigdata.pe.stock.resource.pool.detail.new.sum.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-详情接口/股票资源池-舆情信息/bigdata_pe_stock_resource_pool_detail_new_list/bigdata_pe_stock_resource_pool_detail_new_list_sql/bigdata.pe.stock.resource.pool.detail.new.list.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata_pe_stock_resource_pool_a_main_sql_v4/bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5456">
+          <caret line="248" column="71" selection-start-line="248" selection-start-column="71" selection-end-line="248" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,769 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="groovy_mvn" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseConsolesMigrationStorage">
+    <option name="migrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3hy4n63yka2wr" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml" file-id="54554" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-22">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (groovy_mvn)","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,103,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,34,13,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 31,
+      "lastUsed": 1787383754040
+    },
+    "Groovy": {
+      "usageCount": 265,
+      "lastUsed": 1787383727624
+    },
+    "JSON": {
+      "usageCount": 130,
+      "lastUsed": 1787383727695
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1765351346701
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 2,
+      "lastUsed": 1757401175248
+    },
+    "CLASS": {
+      "usageCount": 15,
+      "lastUsed": 1780541082357
+    },
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1757990842108
+    },
+    "SQL": {
+      "usageCount": 2,
+      "lastUsed": 1773116199499
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dwd_pe_stock.dwd_pe_stock_analysis_curr_new</find>
+      <find>sac.trade_date</find>
+      <find>suspendFlag</find>
+      <find>trim(t1.stock_code) =</find>
+      <find>t1.industry_concept_code</find>
+      <find>_analysis_curr</find>
+      <find>${getWithAlias()}_analysis_curr</find>
+      <find>marketIndexType</find>
+      <find>sa.month</find>
+      <find>concat(substr(cal_date,1,7),'-01')</find>
+      <find>group by concat(substr(cal_date  ,1,7),'-01')</find>
+      <find>&lt;%if(isNotEmpty(industryOrConcept) &amp;&amp; industryOrConcept == '30' ){%&gt;</find>
+      <find>dateConditionSql</find>
+      <find>industryOrConcept</find>
+      <find>/*交易日yyyy-mm-dd*/</find>
+      <find>compareOperation</find>
+      <find>marketIndexMap</find>
+      <find>down_num_rate</find>
+      <find>daysNumSql</find>
+      <find>it.</find>
+      <find>AccumNode</find>
+      <find>startDate</find>
+      <find>/*</find>
+      <find>*/</find>
+      <find>\\</find>
+      <find>compareTimeWord</find>
+      <find>v_analysis_curr_industry_stock</find>
+      <find>v_analysis_curr_industry_conditions</find>
+      <find>v_analysis_curr_industry_detail</find>
+      <find>v_analysis_curr_industry</find>
+      <find>v_trade_date_cnt</find>
+      <find>processMonthDateRange</find>
+      <find>reportGlobalParams.json</find>
+      <find />
+      <find>print</find>
+      <find>orderByOrderNode</find>
+      <find>conditionGroup</find>
+      <find>getDateRange(</find>
+      <find>SimpleDateFormat</find>
+      <find>rankOperationSql</find>
+      <find>tableSql</find>
+      <find>joinSql</find>
+      <find>conditionAddSql</find>
+      <find>${getWithAlias()}_trade_date</find>
+      <find>getDateConditionSql</find>
+      <find>VolumeRadioNode</find>
+      <find>public</find>
+      <find>;</find>
+      <find>selectMonth</find>
+      <find>920099.SH</find>
+      <find>minStartDate</find>
+      <find>2025-09-16</find>
+      <find>rightTimeWord</find>
+      <find>IndexSeq</find>
+      <find>i</find>
+      <find>indexNum</find>
+      <find>getTableAlias</find>
+      <find>transformValues</find>
+      <find>startDateNew</find>
+      <find>getPartitionColumn</find>
+      <find>PartitionSql</find>
+      <find>postTimeType</find>
+      <find>getPartitionSql</find>
+      <find>metricMap</find>
+      <find>getDateRange</find>
+      <find>metricFieldName</find>
+      <find>tradeDate</find>
+      <find>tradeTime</find>
+      <find>hasPrePointCompare</find>
+      <find>metricName</find>
+      <find>getComparisonSqlFragments</find>
+      <find>getJoinSqlFragments</find>
+      <find>Collectors</find>
+      <find>${sqlConditionAdd} ${sqlConditionAdd}</find>
+      <find>daysValues</find>
+      <find>sqlConditionAdd</find>
+      <find>operation</find>
+      <find>rankConditionOperation</find>
+      <find>, frontBrackets, postBrackets</find>
+      <find>timeOperation</find>
+      <find>DateUtil</find>
+      <find>endDate</find>
+      <find>pointTimeFlag</find>
+      <find>industryCodeStrs</find>
+      <find>stock_news_read_status_record</find>
+      <find>\t</find>
+      <find>rankConditionType</find>
+      <find>compareRangeType</find>
+      <find>timeUnit</find>
+      <find>listSqlBlock</find>
+      <find>calDateArr</find>
+      <find>industryRapidIncreaseNode</find>
+      <find>next_trade_date</find>
+      <find>metricType</find>
+      <find>getWithAlias</find>
+      <find>compareFlag</find>
+      <find>compareAlgorithm</find>
+      <find>values</find>
+      <find>getComenCompareSql</find>
+      <find>conceptRankList</find>
+      <find>conceptList</find>
+      <find>groupIndex</find>
+      <find>520</find>
+      <find>t520</find>
+      <find>rightNode</find>
+      <find>_relation as (</find>
+      <find>timeWord</find>
+      <find>replace</find>
+      <find>Map leftDateMap = getDateRange(calDateArr,leftStartDateSegment,leftEndDateSegment,leftDateRange,leftTimeRange,leftTimeWord)</find>
+      <find>org.example.test.test.requestParallel()</find>
+      <find>requestParallel()</find>
+      <find>extractFieldName()</find>
+      <find>dayOrMinuteFlag</find>
+      <find>dateRange</find>
+      <find>valuesValues1</find>
+      <find>childFieldSb</find>
+      <find>valuesValues</find>
+      <find>firstPeriodUnit1</find>
+      <find>t60_87</find>
+      <find>/*范围于N天*/ as flag</find>
+      <find>conditionPre</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sa.month</replace>
+      <replace>trade_date</replace>
+      <replace>cal_date</replace>
+      <replace>/</replace>
+      <replace>${getWithAlias()}_analysis_curr_industry_stock</replace>
+      <replace>${getWithAlias()}_analysis_curr_industry_conditions</replace>
+      <replace>${getWithAlias()}_analysis_curr_industry_detail</replace>
+      <replace>${getWithAlias()}_analysis_curr_industry</replace>
+      <replace>${getWithAlias()}_trade_date_cnt</replace>
+      <replace>println</replace>
+      <replace>${sqlConditionAdd}</replace>
+      <replace>operation</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\WorkSpace\groovy_mvn\src\main\groovy\org\example</dir>
+      <dir>D:\WorkSpace\groovy_mvn\src\main\groovy\org\example\股票资源池\股票资源池-聚合查询</dir>
+      <dir>D:\WorkSpace\groovy_mvn\src\main\groovy</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="D:\WorkSpace\groovy_mvn\src\main\groovy" />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;D:/WorkSpace/groovy_mvn/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.upDownStockRatioNode.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/groovy_mvn/pom.xml&quot;,
+    &quot;D:/WorkSpace/Tmp/tmp.json&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/t660.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.400.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.410.50.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.440.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.440.v4.online.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.600.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.660.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.670.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.industrypct.ranking.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.orderByOrderNode.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.quantityPriceMix.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.upDownStockRatioNode.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pre.pick.price.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pre.pick.qpmix.orderbyorder.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pre.pick.qpmix.volume.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.130.v4.groovy&quot;,
+    &quot;C:/Users/766698/.m2/settings.xml&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.pctconditionnode.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.priceNode.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.720.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/bigdata/pe/stock/resource/pool/a/main/sql/v4/sr/20250806.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.440.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.460.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.490.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.670.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.660.v4.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/ProcessReportTest.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/resources/tmp.sql&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/utils/ParamUtils.java&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/pom.xml&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/20250806.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/bigdata.pe.stock.selection.analysis.concept.conceptRank.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/Main.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/params_replace.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/utils/ParamUtils.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/string_params_parse.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/normal_test.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/resources/reportGlobalParams0.json&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/groovy/org/example/test/test.groovy&quot;,
+    &quot;D:/WorkSpace/groovy_mvn/src/main/resources/reportGlobalParams.json&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="265" lastUsage="1787383727625" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1757990842108" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="130" lastUsage="1787383727695" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="2" lastUsage="1773116199499" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1757401175248" />
+    </language>
+    <language id="XML">
+      <summary usageCount="31" lastUsage="1787383754040" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="groovy_mvn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/groovy/groovy_mvn}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="groovy_mvn" />
+            <item name="groovy_mvn" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="groovy_mvn" />
+              <item name="dir{file://D:/WorkSpace/groovy/groovy_mvn}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file://D:/WorkSpace/groovy/groovy_mvn/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                <item name="dir{file://D:/WorkSpace/groovy/groovy_mvn/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file://D:/WorkSpace/groovy/groovy_mvn/src}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.java" iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="D:\WorkSpace\groovy_mvn\.idea\queries" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Groovy.test (3)" />
+      <element setting="Groovy.test (2)" />
+      <element setting="Groovy.test (1)" />
+      <element setting="Groovy.test" />
+      <element setting="Groovy.test (5)" />
+      <element setting="Groovy.test (4)" />
+      <element setting="Groovy.params_replace" />
+      <element setting="Groovy.normal_test" />
+      <element setting="Groovy.20250806 (4)" />
+      <element setting="Groovy.20250806 (3)" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="D:\WorkSpace\groovy_mvn" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="D:\WorkSpace\groovy_mvn">
+        <option name="shellCommand">
+          <option value="powershell.exe" />
+          <option value="-NoExit" />
+          <option value="-ExecutionPolicy" />
+          <option value="Bypass" />
+          <option value="-File" />
+          <option value="D:\Tools\DevTools\IDE\JetBrains\2025\IntelliJ IDEA Ultimate\plugins\terminal\shell-integrations\powershell\powershell-integration.ps1" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50155926" visible="true" weight="0.17615274" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49844074" side_tool="true" weight="0.1575521" />
+      <window_info id="kybox" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.315764" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4026163" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" weight="0.31540698" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.31540698" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.40504104" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.29835874" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="KyBoxResult" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32961094" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Trae AI" order="5" weight="0.32961094" />
+      <window_info anchor="right" id="StarSQLs" order="6" />
+      <window_info anchor="right" id="Cline" order="7" />
+      <unified_weights bottom="0.29835874" left="0.17615274" right="0.32961094" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50155926" visible="true" weight="0.12578125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49844074" side_tool="true" weight="0.1575521" />
+      <window_info id="kybox" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.315764" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4026163" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" weight="0.31540698" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.31540698" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.31540698" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.31540698" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="KyBoxResult" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Trae AI" order="5" weight="0.32994792" />
+      <window_info anchor="right" id="StarSQLs" order="6" />
+      <window_info anchor="right" id="Cline" order="7" />
+      <unified_weights bottom="0.31540698" left="0.12578125" right="0.32994792" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Trae AI</value>
+      <value>Notifications</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Structure</value>
+      <value>Build</value>
+      <value>Terminal</value>
+      <value>Find</value>
+      <value>Version Control</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="515" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1780645183799">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1368" y="515" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1780645183799" />
+    <state width="363" height="80" key="DebuggerActiveHint" timestamp="1784902199501">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="363" height="80" key="DebuggerActiveHint/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784902199501" />
+    <state width="1369" height="308" key="GridCell.Tab.0.bottom" timestamp="1784903087271">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015576" />
+    <state width="1369" height="308" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970082" />
+    <state width="1369" height="308" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087271" />
+    <state width="1369" height="308" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="308" key="GridCell.Tab.0.center" timestamp="1784903087271">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.0.center/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015575" />
+    <state width="1369" height="308" key="GridCell.Tab.0.center/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970082" />
+    <state width="1369" height="308" key="GridCell.Tab.0.center/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087271" />
+    <state width="1369" height="308" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="308" key="GridCell.Tab.0.left" timestamp="1784903087271">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.0.left/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015572" />
+    <state width="1369" height="308" key="GridCell.Tab.0.left/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970082" />
+    <state width="1369" height="308" key="GridCell.Tab.0.left/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087271" />
+    <state width="1369" height="308" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="308" key="GridCell.Tab.0.right" timestamp="1784903087271">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.0.right/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015575" />
+    <state width="1369" height="308" key="GridCell.Tab.0.right/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970082" />
+    <state width="1369" height="308" key="GridCell.Tab.0.right/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087271" />
+    <state width="1369" height="308" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="217" key="GridCell.Tab.1.bottom" timestamp="1784903087268">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.1.bottom/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015579" />
+    <state width="1369" height="308" key="GridCell.Tab.1.bottom/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970083" />
+    <state width="1369" height="217" key="GridCell.Tab.1.bottom/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087268" />
+    <state width="1369" height="308" key="GridCell.Tab.1.bottom/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="217" key="GridCell.Tab.1.center" timestamp="1784903087268">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.1.center/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015577" />
+    <state width="1369" height="308" key="GridCell.Tab.1.center/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970082" />
+    <state width="1369" height="217" key="GridCell.Tab.1.center/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087268" />
+    <state width="1369" height="308" key="GridCell.Tab.1.center/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="217" key="GridCell.Tab.1.left" timestamp="1784903087268">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.1.left/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015577" />
+    <state width="1369" height="308" key="GridCell.Tab.1.left/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970082" />
+    <state width="1369" height="217" key="GridCell.Tab.1.left/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087268" />
+    <state width="1369" height="308" key="GridCell.Tab.1.left/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+    <state width="1369" height="217" key="GridCell.Tab.1.right" timestamp="1784903087268">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1848" height="381" key="GridCell.Tab.1.right/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782120015578" />
+    <state width="1369" height="308" key="GridCell.Tab.1.right/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1780985970083" />
+    <state width="1369" height="217" key="GridCell.Tab.1.right/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1784903087268" />
+    <state width="1369" height="308" key="GridCell.Tab.1.right/0.0.1440.852@0.0.1440.852" timestamp="1780736634424" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>minStartDate</expression-string>
+        <language-id>Groovy</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.400.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.410.50.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.440.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.440.v4.online.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.600.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.660.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.670.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.orderByOrderNode.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.industrypct.ranking.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.quantityPriceMix.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.upDownStockRatioNode.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pre.pick.price.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pre.pick.qpmix.orderbyorder.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pre.pick.qpmix.volume.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.130.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.pctconditionnode.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.priceNode.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.720.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.670.v4" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-json/3.0.8/groovy-json-3.0.8.jar!/org/apache/groovy/json/internal/LazyMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4668">
+          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/bigdata/pe/stock/resource/pool/a/main/sql/v4/sr/20250806.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.440.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.460.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.490.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.670.v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/股票资源池/股票资源池-聚合查询/优化/bigdata.pe.stock.resource.pool.a.main.sql.660.v4.groovy" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar!/org/apache/groovy/util/SystemUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Tools/DevTools/Java/JDK/jdk-11.0.22-oracle/lib/src.zip!/java.base/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/utils/ParamUtils.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-json/3.0.8/groovy-json-3.0.8.jar!/groovy/json/JsonSlurper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/t660.json" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar!/org/apache/groovy/io/StringBuilderWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/ProcessReportTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/bigdata.pe.stock.selection.analysis.concept.conceptRank.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/template.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/params_replace.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#26#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/utils/ParamUtils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/string_params_parse.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="326" column="60" selection-start-line="326" selection-start-column="47" selection-end-line="326" selection-end-column="60" />
+          <folding>
+            <element signature="e#73#11732#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/normal_test.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#47#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar!/groovyjarjarasm/asm/ClassWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/reportGlobalParams1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/reportGlobalParams0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/org/example/test/test.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="1178" column="13" selection-start-line="1178" selection-start-column="13" selection-end-line="1178" selection-end-column="13" />
+          <folding>
+            <element signature="e#573#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/reportGlobalParams.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6182">
+          <caret line="534" column="9" selection-start-line="500" selection-start-column="26" selection-end-line="534" selection-end-column="9" />
+          <folding>
+            <element signature="e#8360#14922#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>groovy_mvn</last-edited>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cn.hutool:hutool-all:5.8.39</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

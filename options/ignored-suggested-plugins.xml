@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="JUnit" />
+        <option value="TestNG-J" />
+        <option value="com.intellij.aqua" />
+      </list>
+    </option>
+  </component>
+</application>

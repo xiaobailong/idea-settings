@@ -1,0 +1,565 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2aq8s4ipgdm8v" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="340">
+              <caret line="1975" column="87" selection-start-line="1975" selection-start-column="87" selection-end-line="1975" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,94,10,27,105,99,111,110,115,47,103,114,111,111,118,121,47,103,114,111,111,118,121,70,105,108,101,46,115,118,103,18,29,105,99,111,110,115,47,103,114,111,111,118,121,47,110,101,119,117,105,47,103,114,111,111,118,121,46,115,118,103,26,19,111,114,103,46,105,110,116,101,108,108,105,106,46,103,114,111,111,118,121,40,-112,-83,-107,-64,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1751534513555
+    },
+    "Groovy": {
+      "usageCount": 23,
+      "lastUsed": 1753263875367
+    },
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1751880274619
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1751968726082
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>v_stock_up_down</find>
+      <find>DateUtil</find>
+      <find>v_dim_trade_date</find>
+      <find>compareField</find>
+      <find>unionExcludeUnitMap</find>
+      <find>comparePropertyMap</find>
+      <find>minus</find>
+      <find>reportGlobalParams.params.columnName   = it.columnName</find>
+      <find>reportGlobalParams.params.columnName</find>
+      <find>industryOrConceptMap</find>
+      <find>v_pe_stock_analysis_curr_industry</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>comparePropertyMap</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "D:/WorkSpace/test/股票资源池/股票资源池-首页列表/bigdata.pe.stock.resource.pool.a.main.sql.v4.groovy",
+    "D:/WorkSpace/test/股票资源池/股票资源池-首页列表/Main.groovy",
+    "D:/WorkSpace/test/股票资源池/股票资源池-首页列表/bigdata/pe/stock/resource/pool/a/main/sql/360/v4.groovy",
+    "D:/WorkSpace/Groovy5/股票资源池/股票资源池-首页列表/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy",
+    "D:/WorkSpace/Groovy5/股票资源池/bigdata/pe/stock/trade/stock/pick/upDownStockRatioNode.groovy",
+    "D:/WorkSpace/Groovy5/股票资源池/bigdata/pe/stock/resource/pool/a/main/sql/590/v4.groovy",
+    "D:/WorkSpace/Groovy5/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy",
+    "D:/WorkSpace/Groovy5/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy",
+    "D:/WorkSpace/Groovy5/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.upDownStockRatioNode.groovy"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="23" lastUsage="1753263875367" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1751880274619" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Groovy5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Groovy5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Groovy5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池/股票资源池-聚合查询}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Groovy5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池/股票资源池-聚合查询}" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Groovy5" />
+            <item name="Groovy5" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="Groovy5" />
+              <item name="dir{file://D:/WorkSpace/Groovy5}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                <item name="dir{file://D:/WorkSpace/Groovy5/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/股票资源池" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池" />
+                <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池-聚合查询" />
+                  <item name="dir{file://D:/WorkSpace/Groovy5/股票资源池/股票资源池-聚合查询}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="false" text="bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                    <item name="bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="AccumNode" />
+                      <item name="AccumNode" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="AccumVolumeRow" />
+                      <item name="AccumVolumeRow" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="AggConditionNode" />
+                      <item name="AggConditionNode" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="AggConditionRow" />
+                      <item name="AggConditionRow" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/abstractClass.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="ConditionNode" />
+                      <item name="ConditionNode" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/abstractClass.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="ConditionRow" />
+                      <item name="ConditionRow" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="shadowLineConditionNode" />
+                      <item name="shadowLineConditionNode" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="VolumeNode" />
+                      <item name="VolumeNode" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="volumeRankingNode" />
+                      <item name="volumeRankingNode" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="volumeRankingRow" />
+                      <item name="volumeRankingRow" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/class.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="VolumeRow" />
+                      <item name="VolumeRow" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy" />
+                    <item name="bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy" />
+                    <item name="bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/选股条件" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="选股条件" />
+                <item name="dir{file://D:/WorkSpace/Groovy5/选股条件}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Groovy.bigdata.pe.stock.resource.pool.a.main.sql.10.v4" />
+      <element setting="Groovy.upDownStockRatioNode" />
+      <element setting="Groovy.bigdata.pe.stock.resource.pool.a.main.sql.590.v4" />
+      <element setting="Groovy.v4 (1)" />
+      <element setting="Groovy.bigdata.pe.stock.resource.pool.a.main.sql.60.v4" />
+      <element setting="Groovy.Main" />
+      <element setting="Groovy.v4" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20598958" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.21200556" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33001173" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.3722157" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33118403" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.37257752" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32977617" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.37257752" left="0.20598958" right="0.32977617" />
+    </layoutV2>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="239" width="500" height="350" key="#Custom_Plugin_Repositories" timestamp="1751869298171">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="548" y="239" width="500" height="350" key="#Custom_Plugin_Repositories/0.0.1440.852@0.0.1440.852" timestamp="1751869298171" />
+    <state x="201" y="0" key="#Project_Structure" timestamp="1751875731509">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="201" y="0" key="#Project_Structure/0.0.1440.852@0.0.1440.852" timestamp="1751875731509" />
+    <state x="314" y="101" width="912" height="698" key="#Run/Debug_Configuration_Templates" timestamp="1751875307203">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="314" y="101" width="912" height="698" key="#Run/Debug_Configuration_Templates/0.0.1440.852@0.0.1440.852" timestamp="1751875307203" />
+    <state x="551" y="273" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1751877315736">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="551" y="273" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1440.852@0.0.1440.852" timestamp="1751877315736" />
+    <state x="313" y="76" width="812" height="770" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1751875753643">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="313" y="76" width="812" height="770" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.852@0.0.1440.852" timestamp="1751875753643" />
+    <state x="546" y="78" width="453" height="696" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1751874176173">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="546" y="78" width="453" height="696" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1440.852@0.0.1440.852" timestamp="1751874176173" />
+    <state width="1838" height="342" key="GridCell.Tab.0.bottom" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="275" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1751968659341" />
+    <state width="1838" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.0.center" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="275" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1751968659341" />
+    <state width="1838" height="342" key="GridCell.Tab.0.center/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.0.left" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="275" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1751968659341" />
+    <state width="1838" height="342" key="GridCell.Tab.0.left/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.0.right" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="275" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1751968659341" />
+    <state width="1838" height="342" key="GridCell.Tab.0.right/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.1.bottom" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="337" key="GridCell.Tab.1.bottom/0.0.1440.852@0.0.1440.852" timestamp="1751964651717" />
+    <state width="1838" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.1.center" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="337" key="GridCell.Tab.1.center/0.0.1440.852@0.0.1440.852" timestamp="1751964651717" />
+    <state width="1838" height="342" key="GridCell.Tab.1.center/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.1.left" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="337" key="GridCell.Tab.1.left/0.0.1440.852@0.0.1440.852" timestamp="1751964651717" />
+    <state width="1838" height="342" key="GridCell.Tab.1.left/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state width="1838" height="342" key="GridCell.Tab.1.right" timestamp="1753263937522">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1359" height="337" key="GridCell.Tab.1.right/0.0.1440.852@0.0.1440.852" timestamp="1751964651717" />
+    <state width="1838" height="342" key="GridCell.Tab.1.right/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753263937522" />
+    <state x="1064" y="680" width="363" height="139" key="ProcessPopupWindow" timestamp="1751535380359">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="1064" y="680" width="363" height="139" key="ProcessPopupWindow/0.0.1440.852@0.0.1440.852" timestamp="1751535380359" />
+    <state x="222" y="0" key="SettingsEditor" timestamp="1751880938388">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="222" y="0" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1751880938388" />
+    <state width="726" height="432" key="XDebugger.FullValuePopup" timestamp="1751879206070">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="726" height="432" key="XDebugger.FullValuePopup/0.0.1440.852@0.0.1440.852" timestamp="1751879206070" />
+    <state x="440" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1751876191418">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="440" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.852@0.0.1440.852" timestamp="1751876191418" />
+    <state x="320" y="126" width="814" height="600" key="conflicts.dialog" timestamp="1751880954928">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="320" y="126" width="814" height="600" key="conflicts.dialog/0.0.1440.852@0.0.1440.852" timestamp="1751880954928" />
+    <state x="319" y="64" width="800" height="723" key="new project wizard" timestamp="1751877985896">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="319" y="64" width="800" height="723" key="new project wizard/0.0.1440.852@0.0.1440.852" timestamp="1751877985896" />
+    <state x="384" y="157" width="670" height="711" key="search.everywhere.popup" timestamp="1751875633934">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="384" y="157" width="670" height="711" key="search.everywhere.popup/0.0.1440.852@0.0.1440.852" timestamp="1751875633934" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/bigdata/pe/stock/resource/pool/a/main/sql/360/bigdata.pe.stock.resource.pool.a.main.sql.v4.sql" />
+    <entry file="jar://$PROJECT_DIR$/lib/groovy-5.0.0-beta-1-sources.jar!/groovy/lang/Script.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-首页列表/Main.groovy" />
+    <entry file="file://$PROJECT_DIR$/股票资源池/bigdata/pe/stock/resource/pool/a/main/sql/590/v4.groovy" />
+    <entry file="file://$PROJECT_DIR$/股票资源池/bigdata/pe/stock/trade/stock/pick/upDownStockRatioNode.groovy" />
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.60.v4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9394">
+          <caret line="427" column="36" selection-start-line="427" selection-start-column="36" selection-end-line="427" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="298" column="32" selection-start-column="2" selection-end-line="896" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/选股条件/选股条件-各个具体条件/bigdata.pe.stock.trade.stock.pick.upDownStockRatioNode.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-column="2" selection-end-line="851" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/股票资源池/股票资源池-聚合查询/bigdata.pe.stock.resource.pool.a.main.sql.10.v4.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="1975" column="87" selection-start-line="1975" selection-start-column="87" selection-end-line="1975" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Groovy5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-5.0.0-beta-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

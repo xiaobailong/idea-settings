@@ -1,0 +1,89 @@
+<application>
+  <component name="AcceptanceRateFactors">
+    <option name="lastShowUpTime" value="1776137059068" />
+    <selectionCounts>
+      <entry key="1" value="0.0" />
+      <entry key="24" value="0.0" />
+      <entry key="168" value="0.0" />
+    </selectionCounts>
+    <showUpCounts>
+      <entry key="1" value="8.2931861553812" />
+      <entry key="24" value="10.863708796786304" />
+      <entry key="168" value="10.980385349533318" />
+    </showUpCounts>
+  </component>
+  <component name="CompletionFinishedType">
+    <dailyDataMap>
+      <entry key="2026-04-14">
+        <DailyData>
+          <option name="explicitCancel" value="1" />
+          <option name="invalidated" value="10" />
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+  <component name="TimeBetweenTyping">
+    <dailyDataMap>
+      <entry key="2026-08-23">
+        <DailyData>
+          <option name="count" value="6" />
+          <option name="totalTime" value="5016" />
+        </DailyData>
+      </entry>
+      <entry key="2026-08-25">
+        <DailyData>
+          <option name="count" value="10" />
+          <option name="totalTime" value="14594" />
+        </DailyData>
+      </entry>
+      <entry key="2026-08-26">
+        <DailyData>
+          <option name="count" value="51" />
+          <option name="totalTime" value="51912" />
+        </DailyData>
+      </entry>
+      <entry key="2026-08-27">
+        <DailyData>
+          <option name="count" value="45" />
+          <option name="totalTime" value="50760" />
+        </DailyData>
+      </entry>
+      <entry key="2026-08-28">
+        <DailyData>
+          <option name="count" value="16" />
+          <option name="totalTime" value="28511" />
+        </DailyData>
+      </entry>
+      <entry key="2026-08-29">
+        <DailyData>
+          <option name="count" value="96" />
+          <option name="totalTime" value="114608" />
+        </DailyData>
+      </entry>
+      <entry key="2026-08-31">
+        <DailyData>
+          <option name="count" value="40" />
+          <option name="totalTime" value="29548" />
+        </DailyData>
+      </entry>
+      <entry key="2026-09-01">
+        <DailyData>
+          <option name="count" value="107" />
+          <option name="totalTime" value="123242" />
+        </DailyData>
+      </entry>
+      <entry key="2026-09-02">
+        <DailyData>
+          <option name="count" value="89" />
+          <option name="totalTime" value="43838" />
+        </DailyData>
+      </entry>
+      <entry key="2026-09-03">
+        <DailyData>
+          <option name="count" value="10" />
+          <option name="totalTime" value="21873" />
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<application>
+  <component name="com.tabbyml.intellijtabby.settings.SettingsService">
+    <option name="serverEndpoint" value="https://api.ofox.ai/v1" />
+    <option name="serverToken" value="sk-of-uMHGXXPrOLNfbySzqQsNXmUlyoohkQpYjDEMRftWfSnigxTRuSniyGXNbGjFodAH" />
+  </component>
+</application>

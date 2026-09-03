@@ -1,0 +1,60 @@
+<application>
+  <component name="CodeGPT_McpSettings">
+    <option name="servers">
+      <list>
+        <McpServerDetailsState>
+          <option name="arguments">
+            <list>
+              <option value="-y" />
+              <option value="@modelcontextprotocol/server-everything" />
+            </list>
+          </option>
+          <option name="name" value="Test Server" />
+        </McpServerDetailsState>
+        <McpServerDetailsState>
+          <option name="arguments">
+            <list>
+              <option value="-y" />
+              <option value="@modelcontextprotocol/server-filesystem" />
+              <option value="D:/WorkSpace/bigdata_pe_invest_stocks" />
+            </list>
+          </option>
+          <option name="id" value="2" />
+          <option name="name" value="File System Server" />
+        </McpServerDetailsState>
+        <McpServerDetailsState>
+          <option name="arguments">
+            <list>
+              <option value="mcp-server-git" />
+              <option value="--repository" />
+              <option value="D:/WorkSpace/bigdata_pe_invest_stocks" />
+            </list>
+          </option>
+          <option name="command" value="uvx" />
+          <option name="id" value="3" />
+          <option name="name" value="Git" />
+        </McpServerDetailsState>
+        <McpServerDetailsState>
+          <option name="arguments">
+            <list>
+              <option value="-y" />
+              <option value="@upstash/context7-mcp" />
+            </list>
+          </option>
+          <option name="id" value="4" />
+          <option name="name" value="Context7" />
+        </McpServerDetailsState>
+        <McpServerDetailsState>
+          <option name="arguments">
+            <list>
+              <option value="-y" />
+              <option value="mcp-ripgrep@latest" />
+            </list>
+          </option>
+          <option name="id" value="5" />
+          <option name="name" value="ripgrep" />
+        </McpServerDetailsState>
+      </list>
+    </option>
+  </component>
+</application>

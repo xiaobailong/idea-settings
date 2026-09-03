@@ -1,0 +1,62 @@
+<application>
+  <component name="CosySettings">
+    <option name="cachedByokConfigJson" value="{&quot;enabled&quot;:false,&quot;providers&quot;:[{&quot;apiKeyUrl&quot;:&quot;https://bailian.console.aliyun.com/cn-beijing/?tab=model#/efm/coding_plan&quot;,&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;阿里云百炼 - 国内&quot;,&quot;enUs&quot;:&quot;Alibaba Cloud Model Studio - China&quot;},&quot;fields&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;API密钥&quot;,&quot;enUs&quot;:&quot;API Key&quot;},&quot;key&quot;:&quot;api_key&quot;,&quot;type&quot;:&quot;free_input&quot;}],&quot;key&quot;:&quot;bailian&quot;,&quot;types&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;Coding plan&quot;,&quot;enUs&quot;:&quot;Coding plan&quot;},&quot;models&quot;:[{&quot;displayName&quot;:&quot;Qwen-3.5-Plus&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3.5-plus-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true},{&quot;displayName&quot;:&quot;Qwen-3.6-Plus&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3.6-plus-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true},{&quot;displayName&quot;:&quot;Qwen-3-Max&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3-max-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;Qwen-3-Coder-Plus&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3-coder-plus-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:false,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;Qwen-3-Coder-Next&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3-coder-next-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:false,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-4.7&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm4.7-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;Kimi-K2.5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;kimi-k2.5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true},{&quot;displayName&quot;:&quot;MiniMax-M2.5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;minimax-m2.5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false}]}]},{&quot;apiKeyUrl&quot;:&quot;https://modelstudio.console.alibabacloud.com/ap-southeast-1/?tab=globalset#/efm/coding_plan&quot;,&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;阿里云百炼 - 国际&quot;,&quot;enUs&quot;:&quot;Alibaba Cloud Model Studio - International&quot;},&quot;fields&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;API密钥&quot;,&quot;enUs&quot;:&quot;API Key&quot;},&quot;key&quot;:&quot;api_key&quot;,&quot;type&quot;:&quot;free_input&quot;}],&quot;key&quot;:&quot;bailian-intl&quot;,&quot;types&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;Coding plan&quot;,&quot;enUs&quot;:&quot;Coding plan&quot;},&quot;models&quot;:[{&quot;displayName&quot;:&quot;Qwen-3.5-Plus&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3.5-plus-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true},{&quot;displayName&quot;:&quot;Qwen-3.6-Plus&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3.6-plus-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true},{&quot;displayName&quot;:&quot;Qwen-3-Max&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3-max-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;Qwen-3-Coder-Plus&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3-coder-plus-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:false,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;Qwen-3-Coder-Next&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;qwen3-coder-next-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:false,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-4.7&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm4.7-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;Kimi-K2.5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;kimi-k2.5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true},{&quot;displayName&quot;:&quot;MiniMax-M2.5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;minimax-m2.5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false}]}]},{&quot;apiKeyUrl&quot;:&quot;https://bigmodel.cn/usercenter/proj-mgmt/apikeys&quot;,&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;智谱&quot;,&quot;enUs&quot;:&quot;Z.ai&quot;},&quot;fields&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;API密钥&quot;,&quot;enUs&quot;:&quot;API Key&quot;},&quot;key&quot;:&quot;api_key&quot;,&quot;type&quot;:&quot;free_input&quot;}],&quot;key&quot;:&quot;zhipu&quot;,&quot;types&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;Coding plan&quot;,&quot;enUs&quot;:&quot;Coding plan&quot;},&quot;models&quot;:[{&quot;displayName&quot;:&quot;GLM-5.1&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm5.1-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-4.7&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm4.7-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-4.6&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm4.6-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;GLM-4.5-Air&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;glm4.5-air-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false}]}]},{&quot;apiKeyUrl&quot;:&quot;https://www.kimi.com/code/console&quot;,&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;Kimi&quot;,&quot;enUs&quot;:&quot;Kimi&quot;},&quot;fields&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;API密钥&quot;,&quot;enUs&quot;:&quot;API Key&quot;},&quot;key&quot;:&quot;api_key&quot;,&quot;type&quot;:&quot;free_input&quot;}],&quot;key&quot;:&quot;kimi&quot;,&quot;types&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;Coding plan&quot;,&quot;enUs&quot;:&quot;Coding plan&quot;},&quot;models&quot;:[{&quot;displayName&quot;:&quot;Kimi-for-coding&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;kimi-for-coding-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:true}]}]},{&quot;apiKeyUrl&quot;:&quot;https://platform.minimaxi.com/user-center/basic-information/interface-key&quot;,&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;MiniMax&quot;,&quot;enUs&quot;:&quot;MiniMax&quot;},&quot;fields&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;API密钥&quot;,&quot;enUs&quot;:&quot;API Key&quot;},&quot;key&quot;:&quot;api_key&quot;,&quot;type&quot;:&quot;free_input&quot;}],&quot;key&quot;:&quot;minimax&quot;,&quot;types&quot;:[{&quot;displayName&quot;:{&quot;cnZh&quot;:&quot;Coding plan&quot;,&quot;enUs&quot;:&quot;Coding plan&quot;},&quot;models&quot;:[{&quot;displayName&quot;:&quot;MiniMax-M2.5&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;minimax-m2.5-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false},{&quot;displayName&quot;:&quot;MiniMax-M2.7&quot;,&quot;format&quot;:&quot;openai&quot;,&quot;key&quot;:&quot;minimax-m2.7-cp&quot;,&quot;maxInputTokens&quot;:180000,&quot;reasoning&quot;:true,&quot;vl&quot;:false}]}]}]}" />
+    <option name="chatModeSelected">
+      <map>
+        <entry key="D:/WorkSpace/bigdata_pe_invest_stocks" value="agent" />
+      </map>
+    </option>
+    <option name="chatModelSelected">
+      <map>
+        <entry key="D:/WorkSpace/bigdata_pe_invest_stocks-assistant" value="auto" />
+        <entry key="D:/WorkSpace/bigdata_pe_invest_stocks-chat" value="auto" />
+      </map>
+    </option>
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="nesConfig">
+      <LingmaNesConfig>
+        <option name="enabled" value="true" />
+      </LingmaNesConfig>
+    </option>
+    <option name="nextConfig">
+      <QoderNextConfig>
+        <option name="disableLanguages">
+          <list>
+            <option value="plaintext" />
+          </list>
+        </option>
+      </QoderNextConfig>
+    </option>
+    <option name="parameter">
+      <ChangeUserSettingParams>
+        <option name="allowReportUsage" value="true" />
+        <option name="cloud">
+          <CloudModelParam>
+            <option name="autoTrigger">
+              <CloudModelAutoTrigger>
+                <option name="enable" value="true" />
+                <option name="generateLength" value="level_2" />
+                <option name="modelLevel" value="large" />
+              </CloudModelAutoTrigger>
+            </option>
+            <option name="enable" value="true" />
+            <option name="manualTrigger">
+              <CloudModelManualTrigger>
+                <option name="generateLength" value="level_2" />
+                <option name="modelLevel" value="large" />
+              </CloudModelManualTrigger>
+            </option>
+            <option name="showInlineWhenIDECompletion" value="true" />
+          </CloudModelParam>
+        </option>
+        <option name="local">
+          <LocalModelParam>
+            <option name="enable" value="false" />
+            <option name="inferenceMode" value="auto" />
+            <option name="maxCandidateNum" value="3" />
+          </LocalModelParam>
+        </option>
+      </ChangeUserSettingParams>
+    </option>
+  </component>
+</application>

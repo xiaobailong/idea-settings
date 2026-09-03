@@ -1,0 +1,19 @@
+<application>
+  <component name="BaseStateDeepSeek-Coding2602">
+    <option name="i" value="2026-04-24 22:35:41" />
+    <option name="ps">
+      <map>
+        <entry key="closeTip" value="0" />
+      </map>
+    </option>
+    <option name="pt" value="小小打赏（9.9元），终身使用，换电脑也能用" />
+    <option name="s" value="2026-04-24 22:34:04" />
+    <option name="t2" value="点此联系支持" />
+    <option name="tip1" value="微信扫一扫，为您答疑" />
+    <option name="tip3" value="Please configure your API Key.&#13;&#10;（点击下方提示信息，配置大模型的API Key）" />
+    <option name="tt" value="感谢支持 | 仅需一次小赏，即可永久使用" />
+    <option name="tty" value="1" />
+    <option name="v" value="1.0.8" />
+    <option name="x" value="0" />
+  </component>
+</application>

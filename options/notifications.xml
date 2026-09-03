@@ -1,0 +1,9 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="External Executable Critical Failures" displayType="NONE" />
+    <notification groupId="VCS Hosting Integrations" displayType="NONE" />
+    <notification groupId="Vcs Important Notifications" displayType="NONE" />
+    <notification groupId="Vcs Messages" displayType="NONE" />
+    <notification groupId="Vcs Notifications" displayType="NONE" />
+  </component>
+</application>

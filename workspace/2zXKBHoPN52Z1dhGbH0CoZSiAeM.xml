@@ -1,0 +1,241 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="dg" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2aq8s4ipgdm8v" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "SQL": {
+      "usageCount": 2,
+      "lastUsed": 1753158326912
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "D:/WorkSpace/dg/临时/tmp.sql"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1753158326914" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/dg}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/dg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/dg/临时}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/dg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/dg/股票资源池}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="dg" />
+            <item name="dg" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="dg" />
+              <item name="dir{file://D:/WorkSpace/dg}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file://D:/WorkSpace/dg/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/临时" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="临时" />
+                <item name="dir{file://D:/WorkSpace/dg/临时}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/临时/tmp.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="tmp.sql" />
+                  <item name="tmp.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/股票资源池" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="股票资源池" />
+                <item name="dir{file://D:/WorkSpace/dg/股票资源池}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/聚合查询" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="聚合查询" />
+                  <item name="dir{file://D:/WorkSpace/dg/股票资源池/聚合查询}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/bigdata.pe.stock.resource.pool.a.main.sql.590.v4.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.main.sql.590.v4.sql" />
+                  <item name="bigdata.pe.stock.resource.pool.a.main.sql.590.v4.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/bigdata.pe.stock.resource.pool.a.main.sql.v4.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.main.sql.v4.sql" />
+                  <item name="bigdata.pe.stock.resource.pool.a.main.sql.v4.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/bigdata.pe.stock.resource.pool.a.sum.trend.date.kanban.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.sum.trend.date.kanban.sql" />
+                  <item name="bigdata.pe.stock.resource.pool.a.sum.trend.date.kanban.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/bigdata.pe.stock.resource.pool.a.sum.up.rate.trend.date.common.index.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="bigdata.pe.stock.resource.pool.a.sum.up.rate.trend.date.common.index.sql" />
+                  <item name="bigdata.pe.stock.resource.pool.a.sum.up.rate.trend.date.common.index.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/v_dim_trade_date_交易日查询.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="v_dim_trade_date_交易日查询.sql" />
+                  <item name="v_dim_trade_date_交易日查询.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/v_stock_up_down_聚合查询.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="v_stock_up_down_聚合查询.sql" />
+                  <item name="v_stock_up_down_聚合查询.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/股票资源池/大数据-PE-股票资源池-今日看板-上涨占比-日期.sql" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/sql.svg" iconPlugin="com.intellij.database" isLeaf="true" text="大数据-PE-股票资源池-今日看板-上涨占比-日期.sql" />
+                  <item name="大数据-PE-股票资源池-今日看板-上涨占比-日期.sql" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828125" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.23828125" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3341" y="145" key="SettingsEditor" timestamp="1753158317329">
+      <screen x="2880" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3341" y="145" key="SettingsEditor/0.0.1920.1152/2880.0.1920.1032@2880.0.1920.1032" timestamp="1753158317329" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/临时/tmp.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="339" column="54" lean-forward="true" selection-start-line="339" selection-start-column="54" selection-end-line="339" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

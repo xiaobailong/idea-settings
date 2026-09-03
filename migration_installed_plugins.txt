@@ -1,0 +1,9 @@
+org.jetbrains.idea.maven
+org.jetbrains.plugins.gradle
+hg4idea
+intellij.grid.loader.xls
+org.jetbrains.plugins.terminal
+Subversion
+org.jetbrains.kotlin
+PerforceDirectPlugin
+com.intellij.mcpServer

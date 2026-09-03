@@ -1,0 +1,558 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="douyin-test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="wp32qcrlpuao" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/example/main/douyin/AlbumGrabMain.java" file-id="106416" managing-fs="1785135395869">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="95" column="41" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AlbumGrabMain.java","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 9,
+      "lastUsed": 1787192837713
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="9" lastUsage="1787192837713" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/db}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/main/douyin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="douyin-test" />
+            <item name="douyin-test" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="douyin-test" />
+              <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/douyin-test" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="douyin-test" />
+                <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/douyin-test}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="org.example" />
+                      <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/db" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="db" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/db}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/db/AlbumRefreshHistoryTable.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="AlbumRefreshHistoryTable" />
+                          <item name="AlbumRefreshHistoryTable" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/db/AlbumTable.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="AlbumTable" />
+                          <item name="AlbumTable" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/db/BaseDB.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="BaseDB" />
+                          <item name="BaseDB" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/db/DetailsPageTable.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="DetailsPageTable" />
+                          <item name="DetailsPageTable" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/download" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="download" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/download}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/entity" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="entity" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/entity}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/enums" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="enums" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/enums}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/main}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="douyin" />
+                          <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/main/douyin}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin/AlbumGrabMain.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="AlbumGrabMain" />
+                            <item name="AlbumGrabMain" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin/CommonMain.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="CommonMain" />
+                            <item name="CommonMain" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin/HistroyMain.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="HistroyMain" />
+                            <item name="HistroyMain" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin/RefreshAlbumGrabMain.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="RefreshAlbumGrabMain" />
+                            <item name="RefreshAlbumGrabMain" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin/RefreshCookies.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="RefreshCookies" />
+                            <item name="RefreshCookies" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/douyin/SearchMain.java" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="SearchMain" />
+                            <item name="SearchMain" type="1a9f42e2:ClassTreeNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/RenameMain.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="RenameMain" />
+                          <item name="RenameMain" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/Test.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Test" />
+                          <item name="Test" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/main/YoudaoTest.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="YoudaoTest" />
+                          <item name="YoudaoTest" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/utils" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/utils}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/work" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="work" />
+                        <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/java/org/example/work}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                    <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/src/test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file://D:/WorkSpace/getter/selenium-test/douyin-test/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.classpath" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".classpath" />
+                <item name=".classpath" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.project" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".project" />
+                <item name=".project" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.java" iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.CommonMain" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3181818" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="kybox" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="KyBoxResult" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" show_stripe_button="false" weight="0.33001173" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32997918" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cline" order="5" />
+      <window_info anchor="right" id="Trae AI" order="6" />
+      <unified_weights bottom="0.33001173" left="0.3181818" right="0.32997918" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1369" height="244" key="GridCell.Tab.0.bottom" timestamp="1787140462118">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787140462118" />
+    <state width="1369" height="244" key="GridCell.Tab.0.center" timestamp="1787140462118">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.center/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787140462118" />
+    <state width="1369" height="244" key="GridCell.Tab.0.left" timestamp="1787140462118">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.left/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787140462118" />
+    <state width="1369" height="244" key="GridCell.Tab.0.right" timestamp="1787140462118">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.right/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787140462118" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/enums/FilePathEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/enums/ChromeDriverEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/enums/DateTimeFormatEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/entity/AlbumInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/entity/UrlInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/entity/PathInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/main/douyin/CommonMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/main/douyin/AlbumGrabMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="95" column="41" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

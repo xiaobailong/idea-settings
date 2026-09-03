@@ -1,0 +1,5 @@
+# custom IntelliJ IDEA VM options (expand/override 'bin\idea64.exe.vmoptions')
+
+-Dide.browser.jcef.enabled=true
+-Djcef.user-data-dir=D:\Data\jcef-user-data-dir
+

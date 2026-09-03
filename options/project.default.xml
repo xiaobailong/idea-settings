@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectViewState">
+        <option name="abbreviatePackageNames" value="true" />
+        <option name="autoscrollFromSource" value="true" />
+        <option name="flattenPackages" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showExcludedFiles" value="false" />
+        <option name="showLibraryContents" value="true" />
+        <option name="sortKey" value="BY_TIME_DESCENDING" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "com.kite25.ai.toolkit.settings.CodeAssistSettingsConfigurable"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="223" y="22" key="SettingsEditor" timestamp="1777041331057">
+          <screen x="0" y="0" width="1440" height="852" />
+        </state>
+        <state x="223" y="22" key="SettingsEditor/0.0.1440.852/-1920.303.1920.1032" timestamp="1777041331057" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

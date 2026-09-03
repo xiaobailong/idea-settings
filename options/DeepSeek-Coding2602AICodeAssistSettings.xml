@@ -1,0 +1,7 @@
+<application>
+  <component name="ApiKeySettingsDeepSeek-Coding2602">
+    <option name="apiKey" value="sk-58c3bc5b9eed407dbef298a189f482e1" />
+    <option name="selectedModule" value="deepseek-v4-flash" />
+    <option name="url" value="https://api.deepseek.com" />
+  </component>
+</application>

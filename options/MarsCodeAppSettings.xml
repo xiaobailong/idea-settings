@@ -1,0 +1,10 @@
+<application>
+  <component name="com.codeverse.userSettings.MarsCodeAppSettingsState">
+    <option name="aiConfirmMode" value="true" />
+    <option name="enableAddToChatTips" value="false" />
+    <option name="enableJCEFOptions" value="true" />
+    <option name="enableOffscreenRender" value="true" />
+    <option name="localeOverride" value="cn" />
+    <option name="remoteConfigSettings" value="{&quot;totalDebounce&quot;:35,&quot;contextFetchDebounce&quot;:15}" />
+  </component>
+</application>

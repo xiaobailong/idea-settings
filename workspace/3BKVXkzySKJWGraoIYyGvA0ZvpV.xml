@@ -1,0 +1,306 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bigdata_pe_invest_stocks" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3f9rhl7roh5ya" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1774237794159
+    },
+    "SQL": {
+      "usageCount": 8,
+      "lastUsed": 1774249097874
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1774247838816
+    },
+    "VcsLog": {
+      "usageCount": 1,
+      "lastUsed": 1774248777985
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="522ab5b6:GitBranchType$REMOTE" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="c693935c:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="522ab5b6:GitBranchType$REMOTE" />
+        <item name="REMOTE/[origin]" type="5fc65cac:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1774237794159" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="8" lastUsage="1774249097874" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigdata_pe_invest_stocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_invest_stocks" />
+            <item name="bigdata_pe_invest_stocks" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_invest_stocks" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks/bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bigdata_pe_stock_inst_stocklist_search_public" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_inst_stocklist_search_public" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks/bigdata_pe_stock_inst_stocklist_search_public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bigdata_pe_stock_inst_stocklist_today_board_cal_factor" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_stock_inst_stocklist_today_board_cal_factor" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks/bigdata_pe_stock_inst_stocklist_today_board_cal_factor}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/废弃文件夹" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="废弃文件夹" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks/废弃文件夹}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/投资股票业务" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="投资股票业务" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks/投资股票业务}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/投资股票分析" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="投资股票分析" />
+                <item name="dir{file://D:/WorkSpace/bigdata_pe_invest_stocks/投资股票分析}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="D:\WorkSpace\bigdata_pe_invest_stocks\.idea\queries" />
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="D:\WorkSpace\bigdata_pe_invest_stocks">
+        <option name="shellCommand">
+          <option value="powershell.exe" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34192708" />
+      <window_info id="Commit" order="1" weight="0.6903646" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="VcsChanges" order="3" weight="0.4763021" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33001173" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Trae AI" order="5" weight="0.32997918" />
+      <unified_weights bottom="0.33001173" left="0.34192708" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Notifications</value>
+      <value>Project</value>
+      <value>VcsChanges</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Trae AI</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1774238070454">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="313" y="122" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1774238070454" />
+    <state x="-1645" y="575" width="1604" height="700" key="MergeDialog" timestamp="1774247164635">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1645" y="575" width="1604" height="700" key="MergeDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1774247164635" />
+    <state x="-1809" y="513" width="1347" height="501" key="MultipleFileMergeDialog" timestamp="1774247294582">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1809" y="513" key="MultipleFileMergeDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1774247294582" />
+    <state x="83" y="173" width="1347" height="501" key="MultipleFileMergeDialog/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1774246666283" />
+    <state x="-1715" y="477" width="1356" height="580" key="Vcs.Push.Dialog.v2" timestamp="1774249212074">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1715" y="477" width="1356" height="580" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1774249212074" />
+    <state x="313" y="151" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1774240178209" />
+    <state x="-1161" y="727" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1774249457972">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1161" y="727" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1774249457972" />
+    <state x="482" y="133" key="git4idea.branch.GitSmartOperationDialog" timestamp="1774238354666">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="482" y="133" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1774238354666" />
+    <state x="-1296" y="515" width="670" height="713" key="search.everywhere.popup" timestamp="1774247647801">
+      <screen x="-1920" y="303" width="1920" height="1032" />
+    </state>
+    <state x="-1296" y="515" width="670" height="713" key="search.everywhere.popup/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1774247647801" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list/bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list_buy_sql/bigdata.pe.invest.anal.hold.buy.sell.extend.strategy.list.buy.sql.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list/bigdata_pe_invest_anal_hold_buy_sell_extend_strategy_list_sell_sql/bigdata.pe.invest.anal.hold.buy.sell.extend.strategy.list.sell.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/废弃文件夹/张俊华/bigdata_pe_invest_stock_ana_strategy_income_trend/bigdata_pe_invest_stock_ana_strategy_income_trend_user_period_after_sql/bigdata.pe.invest.stock.ana.strategy.income.trend.user.period.after.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="392" column="64" selection-start-line="392" selection-start-column="64" selection-end-line="392" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1817265600&quot;,&quot;projectHash&quot;:&quot;626f1285&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;dev_20260327_467548_fenzhongqushi_gqy&quot;,&quot;inclusiveRef&quot;:&quot;main&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_invest_stocks&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/投资股票分析/投资股票分析-正式/策略/原始接口/bigdata_pe_invest_stock_ana_strategy_income_trend/bigdata_pe_invest_stock_ana_strategy_income_trend_member_after_sql/bigdata.pe.invest.stock.ana.strategy.income.trend.member.after.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5495">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/投资股票分析/投资股票分析-正式/策略/原始接口/bigdata_pe_invest_stock_ana_strategy_income_trend/bigdata_pe_invest_stock_ana_strategy_income_trend_user_period_after_sql/bigdata.pe.invest.stock.ana.strategy.income.trend.user.period.after.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="430" column="11" lean-forward="true" selection-start-line="430" selection-start-column="11" selection-end-line="430" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
