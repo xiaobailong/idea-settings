@@ -11,5 +11,6 @@
     <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" source="SYSTEM" />
     <entry key="jdk.updater" value="false" source="SYSTEM" />
+    <entry key="java.highest.language.level" value="27" source="MANAGER" />
   </component>
 </application>

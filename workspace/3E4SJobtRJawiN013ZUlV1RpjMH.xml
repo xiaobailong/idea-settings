@@ -17,27 +17,17 @@
       <path>
         <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
         <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
-        <item name="BRANCH:dev_jy_0902" type="5dcd9098:BranchNodeDescriptor$Branch" />
+        <item name="BRANCH:main" type="5dcd9098:BranchNodeDescriptor$Branch" />
       </path>
     </select>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="3o0l1ju5hh12b" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file>
-        <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql" file-id="60443" managing-fs="1785135395869">
-          <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="858">
-              <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"bigdata.pe.market.anal.concept.stat.sql.sql","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,47,10,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,115,113,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-92,-113,-41,-75,2,48,2]}]]></tab>
-      </file>
+    <leaf ideFingerprint="3gtvtjyce3w9w" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_sql/bigdata.pe.market.anal.concept.tree.sql.sql" file-id="241994" managing-fs="1785135395869">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="462">
-              <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="594">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -48,24 +38,28 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Markdown": {
-      "usageCount": 12,
-      "lastUsed": 1782181879689
+      "usageCount": 13,
+      "lastUsed": 1789213525923
     },
     "SQL": {
-      "usageCount": 139,
-      "lastUsed": 1788426256369
+      "usageCount": 249,
+      "lastUsed": 1790082904396
     },
     "VcsLog": {
-      "usageCount": 25,
-      "lastUsed": 1788426188918
+      "usageCount": 52,
+      "lastUsed": 1789473490821
     },
     "DIFF": {
-      "usageCount": 46,
-      "lastUsed": 1788426194543
+      "usageCount": 110,
+      "lastUsed": 1789473506792
     },
     "Groovy": {
-      "usageCount": 51,
-      "lastUsed": 1783361072594
+      "usageCount": 106,
+      "lastUsed": 1789393063724
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 3,
+      "lastUsed": 1788495369046
     }
   }
 }]]></component>
@@ -73,7 +67,6 @@
     <findStrings>
       <find>dwd_pe_stock.dwd_pe_stock_industries_kline_daily</find>
       <find>quarterly_net_profit_avg_hb</find>
-      <find />
       <find>orderBySeqNum</find>
       <find>v_pe_stock_analysis_his_</find>
       <find>dwd_pe_stock.dwd_pe_stock_analysis_mm_new</find>
@@ -123,9 +116,6 @@
       <find>v_pre_two_trade_day_concept</find>
       <find>pct_chg_rank</find>
       <find>conceptList</find>
-      <find>conceptListStr</find>
-      <find>execSourceType</find>
-      <find>isStFlag</find>
       <find>Collectors</find>
       <find>marketCodeArr</find>
       <find>up_num</find>
@@ -138,16 +128,12 @@
       <find>.dow_num</find>
       <find>v_stock_ind_concept_summary_industry_count</find>
       <find>v_pe_stock_analysis_range_all_group_up_down_group_industry</find>
-      <find>v_pe_stock_analysis_range_all_where_industry</find>
       <find>actual_turnover_rate</find>
       <find>trade_amount</find>
       <find>low_frequency_quality_score</find>
       <find>v_pe_stock_analysis_industry_collect_result</find>
       <find>industry_stock_cnt</find>
-      <find>v_pe_stock_analysis_his_industry_condition</find>
-      <find>v_pe_stock_analysis_his_industry</find>
       <find>v_pe_industry_date_info_mm</find>
-      <find>v_stock_analysis_mm_new_industry</find>
       <find>v_pe_stock_industries_relation_result_industry</find>
       <find>v_dwd_pe_stock_analysis_result_filter_industry</find>
       <find>remove_max_pct_chg_rank</find>
@@ -161,7 +147,6 @@
       <find>hit_stock_code_list</find>
       <find>up_stock_codes_not_suspend</find>
       <find>stock_codes_not_suspend</find>
-      <find>is_concept_stock_flag</find>
       <find>stock_select_flag</find>
       <find>rank_filter_flag</find>
       <find>industryListStr</find>
@@ -180,8 +165,6 @@
       <find>up_down_flag</find>
       <find>v_pe_stock_analysis_range_all_group_trade_date_tmp</find>
       <find>v_pe_stock_analysis_range_all_where</find>
-      <find>v_pe_stock_analysis_range_all_detail</find>
-      <find>v_pe_stock_analysis_his_concept_condition</find>
       <find>v_pe_stock_analysis_curr</find>
       <find>v_dwd_pe_stock_analysis_reuslt</find>
       <find>pre_1_pct_chg_rank</find>
@@ -199,13 +182,38 @@
       <find>concept_name</find>
       <find>type_name</find>
       <find>涨幅</find>
-      <find>no_concept_stock_cnt</find>
       <find>v_target_node_path</find>
       <find>v_target_node</find>
       <find>conceptListFlag</find>
       <find>isNotEmpty(conceptListStr1)</find>
       <find>v_pe_concept_target_level_relation</find>
       <find>v_target_node_path_flat</find>
+      <find>conceptListStr</find>
+      <find>row_total</find>
+      <find>v_stock_max_trade_cal_result</find>
+      <find>order_by_seq_num</find>
+      <find>typeVal</find>
+      <find>isStFlag</find>
+      <find>execSourceType</find>
+      <find>fastPctChgForwardN</find>
+      <find>nearlyNMinutes</find>
+      <find>industry_up_down_type</find>
+      <find>v_pre_two_trade_day_industry</find>
+      <find>dwd_pe_stock_analysis_mm_new</find>
+      <find>v_stock_analysis_mm_new_industry</find>
+      <find>v_pe_stock_analysis_his_industry_condition</find>
+      <find>v_pe_stock_analysis_range_all_detail_industry</find>
+      <find>v_pe_stock_analysis_range_all_where_industry</find>
+      <find>v_pe_stock_analysis_his_industry</find>
+      <find />
+      <find>industryUpDownType</find>
+      <find>conceptUpDownType</find>
+      <find>no_concept_stock_cnt</find>
+      <find>is_concept_stock_flag</find>
+      <find>v_pe_stock_concept_relation_result</find>
+      <find>exclude_st_flag</find>
+      <find>v_pe_stock_analysis_range_all_detail</find>
+      <find>v_pe_stock_analysis_his_concept_condition</find>
     </findStrings>
     <replaceStrings>
       <replace>v_pe_stock_analysis_range_all_group_trade_date</replace>
@@ -216,6 +224,12 @@
       <replace>v_pe_stock_analysis_industry_collect_result</replace>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\WorkSpace\bigdata_pe\bigdata_pe_stock_market_ana\热点榜单\列表接口</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="D:\WorkSpace\bigdata_pe\bigdata_pe_stock_market_ana\热点榜单\列表接口" />
   </component>
   <component name="GitBranchesPopupTreeState">
     <expand>
@@ -240,30 +254,39 @@
     <select />
   </component>
   <component name="GitSEFilterConfiguration">{}</component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/PC端/bigdata_pe_stock_market_ana_concept_stock_sum/bigdata_pe_stock_market_ana_concept_stock_sum_sql/bigdata.pe.stock.market.ana.concept.stock.sum.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/README.md",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_stock_selection_analysis_concept_share/bigdata_pe_stock_selection_analysis_concept_share_sql/bigdata.pe.stock.selection.analysis.concept.share.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_stock_selection_analysis_concept_share_common/bigdata.pe.stock.selection.analysis.concept.share.common.groovy",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/公共代码/bigdata_pe_stock_market_ana_concept_public_code_block/bigdata.pe.stock.market.ana.concept.public.code.block.groovy",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_stock_selection_analysis_concept_share_common/bigdata_pe_stock_selection_analysis_concept_share_common_sql/bigdata.pe.stock.selection.analysis.concept.share.common.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/公共代码/bigdata_pe_stock_market_ana_concept_public_code_block/bigdata_pe_stock_market_ana_concept_public_code_block_sql/bigdata.pe.stock.market.ana.concept.public.code.block.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_stock_selection_analysis_industry_share/bigdata_pe_stock_selection_analysis_industry_share_list/bigdata.pe.stock.selection.analysis.industry.share.list.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_stock_selection_analysis_industry_share_common/bigdata_pe_stock_selection_analysis_industry_share_common_sql/bigdata.pe.stock.selection.analysis.industry.share.common.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/公共代码/bigdata_pe_stock_market_ana_industry_public_code_block/bigdata_pe_stock_market_ana_industry_public_code_block_sql/bigdata.pe.stock.market.ana.industry.public.code.block.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata.pe.market.anal.industry.list.groovy",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata.pe.market.anal.concept.list.groovy",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata_pe_market_anal_industry_stat_sql/bigdata.pe.market.anal.industry.stat.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata_pe_market_anal_concept_list_sql/bigdata.pe.market.anal.concept.list.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata_pe_market_anal_industry_list_sql/bigdata.pe.market.anal.industry.list.sql.sql",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata.pe.market.anal.industry.stat.groovy",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata.pe.market.anal.concept.stat.groovy",
-    "D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql",
-    "D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql",
-    "D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_sql/bigdata.pe.market.anal.concept.tree.sql.sql"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/PC端/bigdata_pe_stock_market_ana_concept_stock_sum/bigdata_pe_stock_market_ana_concept_stock_sum_sql/bigdata.pe.stock.market.ana.concept.stock.sum.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/README.md&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_stock_selection_analysis_concept_share/bigdata_pe_stock_selection_analysis_concept_share_sql/bigdata.pe.stock.selection.analysis.concept.share.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_stock_selection_analysis_concept_share_common/bigdata.pe.stock.selection.analysis.concept.share.common.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/公共代码/bigdata_pe_stock_market_ana_concept_public_code_block/bigdata.pe.stock.market.ana.concept.public.code.block.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_stock_selection_analysis_concept_share_common/bigdata_pe_stock_selection_analysis_concept_share_common_sql/bigdata.pe.stock.selection.analysis.concept.share.common.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/公共代码/bigdata_pe_stock_market_ana_concept_public_code_block/bigdata_pe_stock_market_ana_concept_public_code_block_sql/bigdata.pe.stock.market.ana.concept.public.code.block.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_stock_selection_analysis_industry_share/bigdata_pe_stock_selection_analysis_industry_share_list/bigdata.pe.stock.selection.analysis.industry.share.list.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_stock_selection_analysis_industry_share_common/bigdata_pe_stock_selection_analysis_industry_share_common_sql/bigdata.pe.stock.selection.analysis.industry.share.common.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/公共代码/bigdata_pe_stock_market_ana_industry_public_code_block/bigdata_pe_stock_market_ana_industry_public_code_block_sql/bigdata.pe.stock.market.ana.industry.public.code.block.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata.pe.market.anal.industry.list.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata.pe.market.anal.concept.list.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata_pe_market_anal_industry_stat_sql/bigdata.pe.market.anal.industry.stat.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata_pe_market_anal_concept_list_sql/bigdata.pe.market.anal.concept.list.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata_pe_market_anal_industry_list_sql/bigdata.pe.market.anal.industry.list.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata.pe.market.anal.industry.stat.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata.pe.market.anal.concept.stat.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/公共代码/bigdata_pe_stock_market_ana_industry_public_code_block/bigdata_pe_stock_market_ana_industry_public_code_block_sql/bigdata.pe.stock.market.ana.industry.public.code.block.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/公共代码/bigdata_pe_stock_market_ana_concept_public_code_block/bigdata_pe_stock_market_ana_concept_public_code_block_sql/bigdata.pe.stock.market.ana.concept.public.code.block.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata_pe_market_anal_industry_list_sql/bigdata.pe.market.anal.industry.list.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata_pe_market_anal_concept_list_sql/bigdata.pe.market.anal.concept.list.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/排名查询/bigdata_pe_market_anal_concept_general_query/bigdata.pe.market.anal.concept.general.query.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata_pe_market_anal_industry_stat_sql/bigdata.pe.market.anal.industry.stat.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata.pe.market.anal.industry.tree.groovy&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_sql/bigdata.pe.market.anal.concept.tree.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata_pe_market_anal_industry_tree_sql/bigdata.pe.market.anal.industry.tree.sql.sql&quot;,
+    &quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata.pe.market.anal.concept.tree.groovy&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -273,13 +296,16 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Groovy">
-      <summary usageCount="51" lastUsage="1783361072594" />
+      <summary usageCount="106" lastUsage="1789393063724" />
     </language>
     <language id="Markdown">
-      <summary usageCount="12" lastUsage="1782181879689" />
+      <summary usageCount="13" lastUsage="1789213525923" />
     </language>
     <language id="SQL">
       <summary usageCount="125" lastUsage="1786692426778" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1788495369046" />
     </language>
   </component>
   <component name="ProjectRoots">
@@ -312,21 +338,6 @@
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata_pe_stock_market_ana" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata_pe_stock_market_ana" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,6 +347,24 @@
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_sql}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_market_ana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_market_ana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata_pe_stock_market_ana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -420,33 +449,6 @@
                     </attributes>
                     <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_stat" />
                     <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat}" type="462c0819:PsiDirectoryNode" />
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql" />
-                        </map>
-                      </attributes>
-                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_stat_sql" />
-                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql}" type="462c0819:PsiDirectoryNode" />
-                      <presentation>
-                        <attributes>
-                          <map>
-                            <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql" />
-                          </map>
-                        </attributes>
-                        <data iconPath="expui/fileTypes/sql.svg" iconPlugin="com.intellij" isLeaf="true" text="bigdata.pe.market.anal.concept.stat.sql.sql" />
-                        <item name="bigdata.pe.market.anal.concept.stat.sql.sql" type="ab9368bb:PsiFileNode" />
-                      </presentation>
-                    </presentation>
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata.pe.market.anal.concept.stat.groovy" />
-                        </map>
-                      </attributes>
-                      <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.market.anal.concept.stat.groovy" />
-                      <item name="bigdata.pe.market.anal.concept.stat.groovy" type="ab9368bb:PsiFileNode" />
-                    </presentation>
                   </presentation>
                   <presentation>
                     <attributes>
@@ -456,42 +458,6 @@
                     </attributes>
                     <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_tree" />
                     <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree}" type="462c0819:PsiDirectoryNode" />
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level1_sql" />
-                        </map>
-                      </attributes>
-                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_tree_level1_sql" />
-                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level1_sql}" type="462c0819:PsiDirectoryNode" />
-                    </presentation>
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level2_sql" />
-                        </map>
-                      </attributes>
-                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_tree_level2_sql" />
-                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level2_sql}" type="462c0819:PsiDirectoryNode" />
-                    </presentation>
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level3_sql" />
-                        </map>
-                      </attributes>
-                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_tree_level3_sql" />
-                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level3_sql}" type="462c0819:PsiDirectoryNode" />
-                    </presentation>
-                    <presentation>
-                      <attributes>
-                        <map>
-                          <entry key="filePath" value="$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level4_sql" />
-                        </map>
-                      </attributes>
-                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_concept_tree_level4_sql" />
-                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_level4_sql}" type="462c0819:PsiDirectoryNode" />
-                    </presentation>
                     <presentation>
                       <attributes>
                         <map>
@@ -548,6 +514,96 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="行业榜单" />
                 <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/行业榜单/PC端" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="PC端" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/PC端}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/行业榜单/公共代码" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="公共代码" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/公共代码}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/行业榜单/列表接口" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="列表接口" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_list" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_industry_list" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_list}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_industry_stat" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_industry_tree" />
+                    <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata_pe_market_anal_industry_tree_sql" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bigdata_pe_market_anal_industry_tree_sql" />
+                      <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata_pe_market_anal_industry_tree_sql}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata.pe.market.anal.industry.tree.groovy" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/groovy/newui/groovy.svg" iconPlugin="org.intellij.groovy" isLeaf="true" text="bigdata.pe.market.anal.industry.tree.groovy" />
+                      <item name="bigdata.pe.market.anal.industry.tree.groovy" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/行业榜单/排名查询" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="排名查询" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/排名查询}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/行业榜单/移动端" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="移动端" />
+                  <item name="dir{file://D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana/行业榜单/移动端}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -582,6 +638,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="QueryFileSettings">
@@ -590,223 +647,233 @@
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Backup and Sync History" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2200521" />
-      <window_info id="Commit" order="1" weight="0.2200521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31956974" />
+      <window_info id="Commit" order="1" weight="0.2721354" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="kybox" order="3" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.25726745" />
-      <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32994187" />
+      <window_info id="kybox" order="3" show_stripe_button="false" />
+      <window_info id="VcsChanges" order="4" weight="0.22942708" />
+      <window_info anchor="bottom" id="Problems View" order="0" show_stripe_button="false" weight="0.26889536" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.26905042" />
+      <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Profiler" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="KyBoxResult" order="6" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.42630208" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.25726745" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.24192709" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <window_info anchor="right" id="Cline" order="5" weight="0.42630208" />
-      <window_info anchor="right" id="Trae AI" order="6" weight="0.42630208" />
-      <unified_weights bottom="0.25726745" left="0.2200521" right="0.42630208" />
+      <window_info anchor="right" id="Cline" order="5" weight="0.24192709" />
+      <window_info anchor="right" id="Trae AI" order="6" weight="0.24192709" />
+      <unified_weights bottom="0.26905042" left="0.31956974" right="0.24192709" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
-      <value>Trae AI</value>
-      <value>Notifications</value>
       <value>Version Control</value>
+      <value>Notifications</value>
       <value>Commit</value>
       <value>Cline</value>
       <value>Problems View</value>
+      <value>Trae AI</value>
+      <value>VcsChanges</value>
+      <value>Run</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1130" y="924" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1788407062147">
+    <state x="-1368" y="712" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1789442462740">
       <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
-    <state x="-1130" y="924" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788407062147" />
-    <state x="-1158" y="540" key="RollbackChangesDialog" timestamp="1781615577390">
-      <screen x="-1920" y="303" width="1920" height="1032" />
+    <state x="-1368" y="712" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789442462740" />
+    <state x="-1130" y="924" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1789116130054">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1130" y="924" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789116130054" />
+    <state width="1848" height="228" key="GridCell.Tab.0.bottom" timestamp="1789009671635">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="228" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789009671635" />
+    <state width="1848" height="228" key="GridCell.Tab.0.center" timestamp="1789009671635">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="228" key="GridCell.Tab.0.center/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789009671635" />
+    <state width="1848" height="228" key="GridCell.Tab.0.left" timestamp="1789009671633">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="228" key="GridCell.Tab.0.left/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789009671633" />
+    <state width="1848" height="228" key="GridCell.Tab.0.right" timestamp="1789009671635">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state width="1848" height="228" key="GridCell.Tab.0.right/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789009671635" />
+    <state x="-1158" y="737" key="RollbackChangesDialog" timestamp="1788784735762">
+      <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
     <state x="-1158" y="540" key="RollbackChangesDialog/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1781615577390" />
+    <state x="-1158" y="737" key="RollbackChangesDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788784735762" />
     <state x="-1818" y="603" width="900" height="700" key="SettingsEditor" timestamp="1788427321544">
       <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
     <state x="-1818" y="603" width="900" height="700" key="SettingsEditor/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788427321544" />
-    <state x="-1368" y="730" key="Vcs.Push.Dialog.v2" timestamp="1788426241634">
+    <state x="-1368" y="730" key="Vcs.Push.Dialog.v2" timestamp="1789473845760">
       <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
     <state x="-1368" y="533" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.303.1920.1032@-1920.303.1920.1032" timestamp="1782289028000" />
-    <state x="-1368" y="730" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788426241634" />
+    <state x="-1368" y="730" key="Vcs.Push.Dialog.v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789473845760" />
     <state x="3432" y="730" key="Vcs.Push.Dialog.v2/0.0.1440.852/2880.500.1920.1032@2880.500.1920.1032" timestamp="1782719986079" />
     <state x="414" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.852@0.0.1440.852" timestamp="1783361108122" />
-    <state x="-1258" y="928" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1782807518899">
+    <state x="-1258" y="928" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1788595135701">
       <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
-    <state x="-1258" y="928" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1782807518899" />
-    <state x="-1200" y="730" key="git4idea.branch.GitSmartOperationDialog" timestamp="1782810027752">
+    <state x="-1258" y="928" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788595135701" />
+    <state x="-1417" y="629" width="928" height="522" key="find.popup" timestamp="1788505743153">
       <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
-    <state x="-1200" y="730" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1782810027752" />
-    <state x="415" y="143" width="671" height="709" key="search.everywhere.popup" timestamp="1786692463508">
-      <screen x="0" y="0" width="1440" height="852" />
+    <state x="-1417" y="629" width="928" height="522" key="find.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1788505743153" />
+    <state x="-1200" y="730" key="git4idea.branch.GitSmartOperationDialog" timestamp="1789392701095">
+      <screen x="-1920" y="500" width="1920" height="1032" />
+    </state>
+    <state x="-1200" y="730" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789392701095" />
+    <state x="-1368" y="674" width="1035" height="858" key="search.everywhere.popup" timestamp="1789366442841">
+      <screen x="-1920" y="500" width="1920" height="1032" />
     </state>
     <state x="414" y="190" width="670" height="708" key="search.everywhere.popup/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782563276674" />
-    <state x="-1368" y="674" width="894" height="858" key="search.everywhere.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1783071508943" />
+    <state x="-1368" y="674" width="1035" height="858" key="search.everywhere.popup/0.0.1440.852/-1920.500.1920.1032@-1920.500.1920.1032" timestamp="1789366442841" />
     <state x="415" y="143" width="671" height="709" key="search.everywhere.popup/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1786692463508" />
     <state x="3432" y="674" width="894" height="858" key="search.everywhere.popup/0.0.1440.852/2880.500.1920.1032@2880.500.1920.1032" timestamp="1782720022453" />
     <state x="415" y="144" width="671" height="709" key="search.everywhere.popup/0.0.1440.852@0.0.1440.852" timestamp="1783361038617" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata.pe.market.anal.concept.list.groovy">
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;270658422&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;dev_0908_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata_pe_market_anal_concept_list_sql/bigdata.pe.market.anal.concept.list.sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+        <state relative-caret-position="1958">
+          <caret line="89" column="85" selection-start-line="89" selection-start-column="85" selection-end-line="89" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata.pe.market.anal.industry.list.groovy">
+    <entry file="file://$PROJECT_DIR$/热点榜单/公共代码/bigdata_pe_stock_market_ana_concept_public_code_block/bigdata_pe_stock_market_ana_concept_public_code_block_sql/bigdata.pe.stock.market.ana.concept.public.code.block.sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        <state relative-caret-position="3234">
+          <caret line="147" column="52" selection-start-line="147" selection-start-column="52" selection-end-line="147" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行业榜单/公共代码/bigdata_pe_stock_market_ana_industry_public_code_block/bigdata_pe_stock_market_ana_industry_public_code_block_sql/bigdata.pe.stock.market.ana.industry.public.code.block.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="354" column="44" selection-start-line="354" selection-start-column="2" selection-end-line="354" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata_pe_market_anal_industry_list_sql/bigdata.pe.market.anal.industry.list.sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1768997743&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;dev_0910_479336_gqy&quot;,&quot;inclusiveRef&quot;:&quot;uat&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1170770170&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;dev_0908_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-241926822&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;dev_0910_479336_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;2070418833&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0910_479336_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata.pe.market.anal.industry.stat.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="79" column="44" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="44" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/热点榜单/PC端/bigdata_pe_stock_market_ana_concept_stock_sum/bigdata_pe_stock_market_ana_concept_stock_sum_sql/bigdata.pe.stock.market.ana.concept.stock.sum.sql.sql" />
-    <entry file="file://$PROJECT_DIR$/热点榜单/PC端/bigdata_pe_stock_selection_analysis_concept_count/bigdata_pe_stock_selection_analysis_concept_count_sql/bigdata.pe.stock.selection.analysis.concept.count.sql.sql" />
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1386859140&quot;,&quot;projectHash&quot;:&quot;97c6e87c&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0702_474489&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_market_ana&quot;}]}" />
-    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_list/bigdata_pe_market_anal_industry_list_sql/bigdata.pe.market.anal.industry.list.sql.sql">
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;73764452&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_0915_479295_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1702463766&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;dev_0910_479336_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-946730152&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;main&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;277313736&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;main&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-1007490322&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;gray&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata.pe.market.anal.industry.tree.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8932">
-          <caret line="406" column="40" selection-start-line="406" selection-start-column="40" selection-end-line="406" selection-end-column="40" />
+        <state relative-caret-position="422">
+          <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;624405508&quot;,&quot;projectHash&quot;:&quot;97c6e87c&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;dev_0702_474489&quot;,&quot;inclusiveRef&quot;:&quot;uat&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_market_ana&quot;}]}" />
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;42559175&quot;,&quot;projectHash&quot;:&quot;97c6e87c&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;dev_0702_474489&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_market_ana&quot;}]}" />
-    <entry file="file://$PROJECT_DIR$/行概关系/疑似下线/bigdata_pe_stock_selection_analysis_concept_summary_list/bigdata.pe.stock.selection.analysis.concept.summary.list.groovy">
+    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_tree/bigdata_pe_market_anal_industry_tree_sql/bigdata.pe.market.anal.industry.tree.sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        <state relative-caret-position="17116">
+          <caret line="778" column="69" selection-start-line="778" selection-start-column="69" selection-end-line="778" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/热点榜单/PC端/bigdata_pe_stock_selection_analysis_concept_pct_trend_day/bigdata_pe_stock_selection_analysis_concept_pct_trend_day_sql/bigdata.pe.stock.selection.analysis.concept.pct.trend.day.sql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1430424055&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;pre_prod&quot;,&quot;inclusiveRef&quot;:&quot;dev_0915_479295_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/热点榜单/PC端/bigdata_pe_stock_selection_analysis_concept_pct_trend_day/bigdata.pe.stock.selection.analysis.concept.pct.trend.day.groovy">
+    <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata.pe.market.anal.concept.tree.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="2046">
+          <caret line="93" column="65" selection-start-line="93" selection-start-column="65" selection-end-line="93" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata.pe.market.anal.concept.stat.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        <state relative-caret-position="2046">
+          <caret line="94" column="65" selection-start-line="94" selection-start-column="47" selection-end-line="94" selection-end-column="65" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata.pe.market.anal.industry.stat.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="122" column="25" lean-forward="true" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;627940739&quot;,&quot;projectHash&quot;:&quot;97c6e87c&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;hotfix_0728_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe_stock_market_ana&quot;}]}" />
-    <entry file="file://$PROJECT_DIR$/行业榜单/公共代码/bigdata_pe_stock_market_ana_industry_public_code_block/bigdata_pe_stock_market_ana_industry_public_code_block_sql/bigdata.pe.stock.market.ana.industry.public.code.block.sql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="385" column="35" lean-forward="true" selection-start-line="385" selection-start-column="35" selection-end-line="385" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/行业榜单/列表接口/bigdata_pe_market_anal_industry_stat/bigdata_pe_market_anal_industry_stat_sql/bigdata.pe.market.anal.industry.stat.sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
-          <folding>
-            <marker date="1788426254197" expanded="true" signature="23785:25080" ph="select ... from [t1]" />
-            <marker date="1788426254197" expanded="true" signature="23785:25040" ph="select ... from [t2]" />
-            <marker date="1788426254197" expanded="true" signature="17924:18266" ph="date_format('${startDate}'...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="18231:18264" ph="t2.industry_up_down_type ...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="18304:18646" ph="date_format('${startDate}'...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="18611:18644" ph="t2.industry_up_down_type ...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="18685:19027" ph="date_format('${startDate}'...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="18992:19025" ph="t2.industry_up_down_type ...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="23805:23833" ph="t2.stock_cnt ...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="24056:24377" ph="date_format('${startDate}'...[2 more]" />
-            <marker date="1788426254197" expanded="true" signature="24426:24749" ph="date_format('${startDate}'...[2 more]" />
-          </folding>
+        <state relative-caret-position="-62">
+          <caret line="409" column="5" lean-forward="true" selection-start-line="409" selection-start-column="5" selection-end-line="409" selection-end-column="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_list/bigdata_pe_market_anal_concept_list_sql/bigdata.pe.market.anal.concept.list.sql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="628" column="46" lean-forward="true" selection-start-line="628" selection-start-column="46" selection-end-line="628" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
-    </entry>
-    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;1286982789&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;uat&quot;,&quot;inclusiveRef&quot;:&quot;dev_jy_0902&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
-      <provider selected="true" editor-type-id="VcsLogEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_stat/bigdata_pe_market_anal_concept_stat_sql/bigdata.pe.market.anal.concept.stat.sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+        <state relative-caret-position="519">
+          <caret line="449" column="33" selection-start-line="449" selection-start-column="33" selection-end-line="449" selection-end-column="33" />
         </state>
       </provider>
     </entry>
+    <entry file="git-compare-branches://{&quot;sessionId&quot;:&quot;-2008670489&quot;,&quot;projectHash&quot;:&quot;83304a9d&quot;,&quot;ranges&quot;:[{&quot;exclusiveRef&quot;:&quot;gray&quot;,&quot;inclusiveRef&quot;:&quot;dev_0915_479295_gqy&quot;}],&quot;roots&quot;:[{&quot;path&quot;:&quot;D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana&quot;}]}">
+      <provider selected="true" editor-type-id="VcsLogEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/热点榜单/列表接口/bigdata_pe_market_anal_concept_tree/bigdata_pe_market_anal_concept_tree_sql/bigdata.pe.market.anal.concept.tree.sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="594">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>

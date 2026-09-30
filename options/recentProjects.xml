@@ -82,41 +82,57 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana">
-          <value>
-            <RecentProjectMetaInfo frameTitle="bigdata_pe_stock_market_ana – bigdata.pe.market.anal.concept.list.sql.sql" opened="true" projectWorkspaceId="3E4SJobtRJawiN013ZUlV1RpjMH">
-              <option name="activationTimestamp" value="1788427220340" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-262.9437.185" />
-              <option name="buildTimestamp" value="1786251600000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="-1732" y="587" width="1400" height="812" extendedState="6" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1788406859936" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool">
           <value>
-            <RecentProjectMetaInfo frameTitle="bigdata_pe_stock_pool – bigdata.pe.stock.resource.pool.detail.new.list.sql.sql" projectWorkspaceId="3DT8ZpGC0Rns4LAWxISB6mrSiiF">
-              <option name="activationTimestamp" value="1788423940844" />
+            <RecentProjectMetaInfo frameTitle="bigdata_pe_stock_pool – bigdata.pe.stock.pool.detail.kline.watching.radar.sql.sql" opened="true" projectWorkspaceId="3DT8ZpGC0Rns4LAWxISB6mrSiiF">
+              <option name="activationTimestamp" value="1790761711671" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-262.9437.185" />
-              <option name="buildTimestamp" value="1786251600000" />
+              <option name="build" value="IU-262.10315.125" />
+              <option name="buildTimestamp" value="1788325260000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="-1928" y="492" width="1936" height="1048" extendedState="6" />
+              <frame x="-1059" y="629" width="973" height="529" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1788408511544" />
+              <option name="projectOpenTimestamp" value="1788508798871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/test/privi">
+          <value>
+            <RecentProjectMetaInfo frameTitle="privi" projectWorkspaceId="3JXJ8Y7mMxmURNEVDp39gDNqvdQ">
+              <option name="activationTimestamp" value="1789822437590" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-262.10315.125" />
+              <option name="buildTimestamp" value="1788325260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="260" y="20" width="1400" height="992" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1789801370508" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bigdata_pe_stock_market_ana – bigdata.pe.market.anal.concept.tree.sql.sql" projectWorkspaceId="3E4SJobtRJawiN013ZUlV1RpjMH">
+              <option name="activationTimestamp" value="1790084501644" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-262.10315.125" />
+              <option name="buildTimestamp" value="1788325260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-14" y="-14" width="2906" height="1730" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1790082904467" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="D:/WorkSpace/bigdata_pe/bigdata_pe_stock_market_ana" />
+    <option name="lastOpenedProject" value="D:/WorkSpace/bigdata_pe/bigdata_pe_stock_pool" />
     <option name="lastProjectLocation" value="D:/WorkSpace/bigdata_pe" />
   </component>
 </application>

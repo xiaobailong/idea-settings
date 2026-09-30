@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeverse.userSettings.MarsCodeAppSettingsState">
+    <option name="aiAutoConfirmCommandDenyList" value="[&quot;rm&quot;,&quot;kill&quot;,&quot;chmod&quot;,&quot;del&quot;,&quot;erase&quot;,&quot;rd&quot;,&quot;rmdir&quot;,&quot;Remove-Item&quot;]" />
     <option name="aiConfirmMode" value="true" />
     <option name="enableAddToChatTips" value="false" />
     <option name="enableJCEFOptions" value="true" />

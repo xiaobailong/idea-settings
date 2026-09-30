@@ -1,12 +1,12 @@
 Git4Idea|Version Controls
 Lombook Plugin|JVM Frameworks
-com.intellij.database|Database
 com.intellij.debugger.collections.visualizer|JVM Tools
 com.intellij.dev|Platform Development
 com.intellij.dfa.analysis|null
 com.intellij.gradle|Build Tools
 com.intellij.groovy.scripting|Languages
 com.intellij.java.ide|IDE Settings
+com.intellij.java|Languages
 com.intellij.jsonpath|Languages
 com.intellij.mermaid|null
 com.intellij.modules.jcef|Other Tools

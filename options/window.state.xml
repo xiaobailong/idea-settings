@@ -29,10 +29,10 @@
     <size key="GridCell.Tab.1.center.0.0.2880.1800@144dpi" width="2733" height="405" />
     <size key="GridCell.Tab.1.right.0.0.2880.1800@144dpi" width="2733" height="405" />
     <size key="GridCell.Tab.1.bottom.0.0.2880.1800@144dpi" width="2733" height="405" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1838" height="293" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1838" height="293" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1838" height="293" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1838" height="293" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1848" height="310" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1848" height="310" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1848" height="310" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1848" height="310" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1838" height="270" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1838" height="270" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1838" height="270" />
@@ -46,7 +46,7 @@
     <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1838" height="270" />
     <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1838" height="270" />
     <size key="find.popup.-1920.303.1920.1080" width="1291" height="572" />
-    <size key="find.popup.0.0.2880.1800@192dpi" width="2718" height="1280" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="2718" height="1694" />
     <size key="GridCell.Tab.0.right.-1920.303.1920.1080" width="1848" height="381" />
     <size key="GridCell.Tab.0.left.-1920.303.1920.1080" width="1848" height="381" />
     <size key="GridCell.Tab.0.center.-1920.303.1920.1080" width="1848" height="381" />
@@ -55,14 +55,14 @@
     <size key="GridCell.Tab.1.center.-1920.303.1920.1080" width="1848" height="381" />
     <size key="GridCell.Tab.1.right.-1920.303.1920.1080" width="1848" height="381" />
     <size key="GridCell.Tab.1.bottom.-1920.303.1920.1080" width="1848" height="381" />
-    <size key="find.popup.-1920.500.1920.1080" width="1359" height="640" />
-    <size key="GridCell.Tab.0.left.-1920.500.1920.1080" width="1848" height="303" />
-    <size key="GridCell.Tab.0.center.-1920.500.1920.1080" width="1848" height="303" />
-    <size key="GridCell.Tab.0.right.-1920.500.1920.1080" width="1848" height="303" />
-    <size key="GridCell.Tab.0.bottom.-1920.500.1920.1080" width="1848" height="303" />
+    <size key="find.popup.-1920.500.1920.1080" width="1359" height="847" />
+    <size key="GridCell.Tab.0.left.-1920.500.1920.1080" width="1848" height="310" />
+    <size key="GridCell.Tab.0.center.-1920.500.1920.1080" width="1848" height="310" />
+    <size key="GridCell.Tab.0.right.-1920.500.1920.1080" width="1848" height="310" />
+    <size key="GridCell.Tab.0.bottom.-1920.500.1920.1080" width="1848" height="310" />
   </component>
   <component name="WindowManager">
-    <frame x="-1928" y="492" width="1936" height="1048" extendedState="6" />
+    <frame x="-1059" y="629" width="973" height="529" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="300" height="490" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1788425688895">
