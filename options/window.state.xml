@@ -62,14 +62,13 @@
     <size key="GridCell.Tab.0.bottom.-1920.500.1920.1080" width="1848" height="310" />
   </component>
   <component name="WindowManager">
-    <frame x="-1059" y="629" width="973" height="529" extendedState="6" />
+    <frame x="-14" y="-14" width="2900" height="1724" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="300" height="490" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1788425688895">
+    <state width="300" height="490" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1791430158328">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state width="300" height="490" key="Vcs.CompareWithSelectedRevision.Popup/0.0.1440.852/-1920.303.1920.1032" timestamp="1781266028103" />
-    <state width="300" height="490" key="Vcs.CompareWithSelectedRevision.Popup/0.0.1440.852/-1920.500.1920.1032" timestamp="1788425688895" />
+    <state width="300" height="490" key="Vcs.CompareWithSelectedRevision.Popup/0.0.1440.852/-1920.500.1920.1032" timestamp="1791430158328" />
     <state x="720" y="392" width="1158" height="650" key="WELCOME_SCREEN" timestamp="1786075565118">
       <screen x="0" y="0" width="1440" height="852" />
     </state>

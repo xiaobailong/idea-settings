@@ -1,4 +1,9 @@
 <application>
+  <component name="KotlinNewUserTracker">
+    <option name="firstKtFileOpened" value="1791443714" />
+    <option name="lastKtFileOpened" value="1791447833" />
+    <option name="newKtUserSince" value="1791443714" />
+  </component>
   <component name="MavenBuildProcessSatisfactionSurveyStore">
     <option name="firstMavenBuildTime" value="1783751097" />
   </component>

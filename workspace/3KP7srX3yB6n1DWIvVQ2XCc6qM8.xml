@@ -1,0 +1,337 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ClipboardMerger" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="p8x6q30390pm" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;PLAIN_TEXT&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1791448310639
+    },
+    &quot;Batch&quot;: {
+      &quot;usageCount&quot;: 24,
+      &quot;lastUsed&quot;: 1791451689317
+    },
+    &quot;DIFF&quot;: {
+      &quot;usageCount&quot;: 88,
+      &quot;lastUsed&quot;: 1791453439603
+    },
+    &quot;GitIgnore file&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1791451737768
+    },
+    &quot;Properties&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1791451565775
+    },
+    &quot;Markdown&quot;: {
+      &quot;usageCount&quot;: 18,
+      &quot;lastUsed&quot;: 1791453500575
+    },
+    &quot;Kotlin&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1791447833387
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;D:/WorkSpace/test/ClipboardMerger/app/src/main/java/com/example/clipboardmerger/ClipboardInputMethodService.kt&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/harmony/entry/src/main/ets/InputMethodExtensionAbility/pages/Keyboard.ets&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/tmp/build_harmony.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/build.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/gh-release.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/scripts/gh-release.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/.trae/rules/project_rules.md&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/.clinerules/rules.md&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/scripts/deploy-harmony.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/scripts/build-harmony.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/scripts/clean.bat&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/harmony/README.md&quot;,
+    &quot;D:/WorkSpace/test/ClipboardMerger/README.md&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Batch">
+      <summary usageCount="24" lastUsage="1791451689317" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1791451737768" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="18" lastUsage="1791453500575" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1791451565775" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1791448310639" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="1" lastUsage="1791447833387" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClipboardMerger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/test/ClipboardMerger}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ClipboardMerger" />
+            <item name="ClipboardMerger" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ClipboardMerger" />
+              <item name="dir{file://D:/WorkSpace/test/ClipboardMerger}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clinerules" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".clinerules" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/.clinerules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.trae" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".trae" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/.trae}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/android" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="android" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/android}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/harmony" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="harmony" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/harmony}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/img" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="img" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/img}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/memory-bank" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="memory-bank" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/memory-bank}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/scripts" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="scripts" />
+                <item name="dir{file://D:/WorkSpace/test/ClipboardMerger/scripts}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/markdown.svg" iconPlugin="com.intellij" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clineignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".clineignore" />
+                <item name=".clineignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2723803" />
+      <window_info id="Commit" order="1" weight="0.28278974" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="kybox" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="5" show_stripe_button="false" weight="0.31125438" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.33001173" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32997918" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cline" order="5" />
+      <window_info active="true" anchor="right" id="Trae AI" order="6" visible="true" weight="0.32997918" />
+      <unified_weights bottom="0.31125438" left="0.2723803" right="0.32997918" />
+    </layoutV2>
+    <recentWindows>
+      <value>Trae AI</value>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Build</value>
+      <value>Commit</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1369" height="244" key="GridCell.Tab.0.bottom" timestamp="1791453654256">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1791453654256" />
+    <state width="1369" height="244" key="GridCell.Tab.0.center" timestamp="1791453654256">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.center/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1791453654256" />
+    <state width="1369" height="244" key="GridCell.Tab.0.left" timestamp="1791453654256">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.left/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1791453654256" />
+    <state width="1369" height="244" key="GridCell.Tab.0.right" timestamp="1791453654256">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1369" height="244" key="GridCell.Tab.0.right/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1791453654256" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tmp/compile.bat" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/clipboardmerger/ClipboardInputMethodService.kt" />
+    <entry file="file://$PROJECT_DIR$/tmp/check_device.bat" />
+    <entry file="file://$PROJECT_DIR$/tmp/build_harmony.bat" />
+    <entry file="file://$PROJECT_DIR$/build-harmony.bat" />
+    <entry file="file://$PROJECT_DIR$/harmony/entry/src/main/ets/InputMethodExtensionAbility/pages/Keyboard.ets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="163" column="18" lean-forward="true" selection-start-line="163" selection-start-column="18" selection-end-line="163" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.bat" />
+    <entry file="file://$PROJECT_DIR$/gh-release.bat" />
+    <entry file="file://$PROJECT_DIR$/clean.bat" />
+    <entry file="file://$PROJECT_DIR$/tmp/inc_ver.bat" />
+    <entry file="file://$PROJECT_DIR$/tmp/build_android.bat" />
+    <entry file="file://$PROJECT_DIR$/.clinerules/tmp-files.md" />
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/scripts/build.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/gh-release.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/deploy-harmony.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/build-harmony.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/clean.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.clinerules/rules.md" />
+    <entry file="file://$PROJECT_DIR$/harmony/README.md" />
+    <entry file="file://$PROJECT_DIR$/.trae/rules/project_rules.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+  </component>
+</project>
